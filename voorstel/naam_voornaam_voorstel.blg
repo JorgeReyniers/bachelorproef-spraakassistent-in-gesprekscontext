@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[1] Config.pm:305> INFO - Logfile is 'naam_voornaam_voorstel.blg'
+[48] biber-MSWIN64:313> INFO - === 
+[411] Utils.pm:209> ERROR - naam_voornaam_voorstel.bcf is malformed, last biblatex run probably failed. Deleted naam_voornaam_voorstel.bbl
+[412] Biber.pm:114> INFO - ERRORS: 1

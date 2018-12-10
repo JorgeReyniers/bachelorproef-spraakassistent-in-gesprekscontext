@@ -18,6 +18,6 @@ Wat zijn de requirements van de applicatie?
 
 #### Opstellen van proof of concept
 
-
 Onderstaande template van Hogeschool Gent werd gebruikt<br>
 https://github.com/HoGentTIN/bachproef-latex-sjabloon
+

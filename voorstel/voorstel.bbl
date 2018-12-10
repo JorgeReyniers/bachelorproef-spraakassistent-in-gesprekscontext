@@ -1,0 +1,401 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Grypdonck2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e61cd51854fba82d76d33045638143e4}{%
+           family={Grypdonck},
+           familyi={G\bibinitperiod},
+           given={Mieke},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e61cd51854fba82d76d33045638143e4}{%
+           family={Grypdonck},
+           familyi={G\bibinitperiod},
+           given={Mieke},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{fullhash}{e61cd51854fba82d76d33045638143e4}
+      \strng{bibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authorbibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authornamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authorfullhash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editorbibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editornamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editorfullhash}{e61cd51854fba82d76d33045638143e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{1}
+      \field{title}{Zora de zorgrobot, een aanwinst?}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://keepupthespirit.be/zora-de-zorgrobot-een-aanwinst/
+      \endverb
+      \verb{url}
+      \verb http://keepupthespirit.be/zora-de-zorgrobot-een-aanwinst/
+      \endverb
+    \endentry
+    \entry{Haenen2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
+           family={Haenen},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
+           family={Haenen},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{fullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{bibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authorbibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authornamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authorfullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editorbibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editornamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editorfullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{10}
+      \field{title}{Officieel: Google Home vanaf 24 oktober in Nederland te koop}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.androidplanet.nl/nieuws/google-home-release-nederland-3/
+      \endverb
+      \verb{url}
+      \verb https://www.androidplanet.nl/nieuws/google-home-release-nederland-3/
+      \endverb
+    \endentry
+    \entry{Jongejan2016}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b208fa2e7ed74b114b7dffd79764cdc8}{%
+           family={Jongejan},
+           familyi={J\bibinitperiod},
+           given={W.J.},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b208fa2e7ed74b114b7dffd79764cdc8}{%
+           family={Jongejan},
+           familyi={J\bibinitperiod},
+           given={W.J.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{fullhash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{bibnamehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{authorbibnamehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{authornamehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{authorfullhash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{editorbibnamehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{editornamehash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \strng{editorfullhash}{b208fa2e7ed74b114b7dffd79764cdc8}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{6}
+      \field{title}{Zora: 15000 euro voor een kwetsbare buiksprekende "zorg"-robot}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zorgictzorgen.nl/zora-15000-euro-voor-een-kwetsbare-buiksprekende-zorg-robot/
+      \endverb
+      \verb{url}
+      \verb https://www.zorgictzorgen.nl/zora-15000-euro-voor-een-kwetsbare-buiksprekende-zorg-robot/
+      \endverb
+    \endentry
+    \entry{Passies2018}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6ef91ec5d50068cc85e24fbd731c1862}{%
+           family={Passies},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
+           family={Passies},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{fullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{bibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authorbibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authornamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authorfullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editorbibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editornamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editorfullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{7}
+      \field{title}{De voice assistant: dit is je nieuwe beste vriend}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.frankwatching.com/archive/2018/07/27/de-voice-assistant-dit-is-je-nieuwe-beste-vriend/
+      \endverb
+      \verb{url}
+      \verb https://www.frankwatching.com/archive/2018/07/27/de-voice-assistant-dit-is-je-nieuwe-beste-vriend/
+      \endverb
+    \endentry
+    \entry{Schueler2018}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=b4e8ddb246037b310129dc16d86ea65c}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=45e3c1b21b1d5f13b64533e274837ec3}{%
+           family={Wel},
+           familyi={W\bibinitperiod},
+           given={Pauline},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b4e8ddb246037b310129dc16d86ea65c}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=45e3c1b21b1d5f13b64533e274837ec3}{%
+           family={Wel},
+           familyi={W\bibinitperiod},
+           given={Pauline},
+           giveni={P\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{fullhash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{bibnamehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{authorbibnamehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{authornamehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{authorfullhash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{editorbibnamehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{editornamehash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \strng{editorfullhash}{4a8ed7e7d6b92d623e00abd988b520b3}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{6}
+      \field{title}{The future of voice assistants in the Netherlands}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/the_future_of_voice_assistants_in_the_netherlands_v0.3_mg_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/the_future_of_voice_assistants_in_the_netherlands_v0.3_mg_0.pdf
+      \endverb
+    \endentry
+    \entry{Stil2016}{report}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=dadd01969b9a2e5749fd22859353ca12}{%
+           family={Stil},
+           familyi={S\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ad549d6facf00f56c5dd7e4bff14c31}{%
+           family={Belleng�},
+           familyi={B\bibinitperiod},
+           given={Nino},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3070cf27c45abd81473b9fa70fe11851}{%
+           family={Snoeren},
+           familyi={S\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {VitaValley}%
+      }
+      \strng{namehash}{956b666babb459e077539fb1fea5b11b}
+      \strng{fullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{bibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authorbibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authornamehash}{956b666babb459e077539fb1fea5b11b}
+      \strng{authorfullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{3}
+      \field{title}{De werkzame principes van Blended Care in het sociaal domein}
+      \field{type}{resreport}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+    \endentry
+    \entry{Vives}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=9844b687bbccb141ba9b6a444f492911}{%
+           family={Vives},
+           familyi={V\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9844b687bbccb141ba9b6a444f492911}{%
+           family={Vives},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{fullhash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{bibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authorbibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authornamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authorfullhash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editorbibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editornamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editorfullhash}{9844b687bbccb141ba9b6a444f492911}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zorglab: Interprofessioneel Centrum Zorgtechnologie}
+      \verb{urlraw}
+      \verb https://www.vives.be/nl/labs/zorglab
+      \endverb
+      \verb{url}
+      \verb https://www.vives.be/nl/labs/zorglab
+      \endverb
+    \endentry
+    \entry{Wentzel2016}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=65a18b3e0bbfff08ab21a147defce0aa}{%
+           family={Wentzel},
+           familyi={W\bibinitperiod},
+           given={Jobke},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=883ff9506431f7567880c83ab177ce59}{%
+           family={Vaart},
+           familyi={V\bibinitperiod},
+           given={Rosalie},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{uniquename=0,uniquepart=base,hash=8ed1a3c0365a335178ca230972cab71a}{%
+           family={T\bibnamedelima Bohlmeijer},
+           familyi={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=707d0f8de02e47e4401a04ffb2a8f925}{%
+           family={Gemert-Pijnen},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Jul},
+           giveni={J\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{fullhash}{4b2aab88b737f21c1f46c30c0c1c6efa}
+      \strng{bibnamehash}{4b2aab88b737f21c1f46c30c0c1c6efa}
+      \strng{authorbibnamehash}{4b2aab88b737f21c1f46c30c0c1c6efa}
+      \strng{authornamehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{authorfullhash}{4b2aab88b737f21c1f46c30c0c1c6efa}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{JMIR Mental Health}
+      \field{month}{2}
+      \field{title}{Mixing Online and Face-to-Face Therapy: How to Benefit From Blended Care in Mental Health Care}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764785/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764785/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
