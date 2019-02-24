@@ -19,6 +19,37 @@
 
 \refsection{0}
   \datalist[entry]{apa/global//global/global}
+    \entry{Datanews2012}{online}{}
+      \name{editor}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4d3930d324a4596ae34215bc84fff7c4}{%
+           family={Datanews},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{fullhash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{bibnamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editorbibnamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editornamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editorfullhash}{4d3930d324a4596ae34215bc84fff7c4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{2}
+      \field{title}{Krijtlijnen voor Vlaamse eHealth uitgezet}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://datanews.knack.be/ict/nieuws/krijtlijnen-voor-vlaamse-ehealth-uitgezet/article-normal-283363.html
+      \endverb
+      \verb{url}
+      \verb https://datanews.knack.be/ict/nieuws/krijtlijnen-voor-vlaamse-ehealth-uitgezet/article-normal-283363.html
+      \endverb
+    \endentry
     \entry{Grypdonck2015}{online}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=e61cd51854fba82d76d33045638143e4}{%
