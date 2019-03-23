@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.9.25)  24 FEB 2019 20:06
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.9.25)  23 MAR 2019 18:16
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1475,7 +1475,7 @@ Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'dutch'.
 
-No file bachproef-tin.aux.
+(bachproef-tin.aux)
 \openout1 = `bachproef-tin.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
@@ -1497,7 +1497,7 @@ LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
 LaTeX Font Info:    ... okay on input line 47.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 47.
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 *geometry* detected driver: pdftex
@@ -1548,10 +1548,6 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 47.
 LaTeX Info: Redefining \pageref on input line 47.
 LaTeX Info: Redefining \nameref on input line 47.
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
 \c@lstlisting=\count461
 LaTeX Info: Redefining \microtypecontext on input line 47.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -1559,6 +1555,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
@@ -1752,7 +1749,31 @@ Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 66.
  [6
 
-]
+] (bachproef-tin.toc
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <17.28> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <12> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 28.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 28.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 28.
+ [7])
 \tf@toc=\write7
 \openout7 = `bachproef-tin.toc'.
 
@@ -1764,18 +1785,8 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 67.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 67.
- [7]
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 67.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 67.
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 67.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 67.
- [8
 
-]
+[8] (bachproef-tin.lof)
 \tf@lof=\write8
 \openout8 = `bachproef-tin.lof'.
 
@@ -1789,6 +1800,7 @@ Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 78.
  [9
 
+
 ]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 78.
@@ -1800,7 +1812,7 @@ Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 78.
  [10
 
-]
+] (bachproef-tin.lot)
 \tf@lot=\write9
 \openout9 = `bachproef-tin.lot'.
 
@@ -1822,7 +1834,8 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 5.
- [12
+
+[12
 
 ]
 Hoofdstuk 1.
@@ -1841,10 +1854,6 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 11.
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 20.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 20.
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining dutch shorthand "~
@@ -1873,23 +1882,8 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 35.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 35.
-
-
-LaTeX Warning: Reference `ch:stand-van-zaken' on page 14 undefined on input lin
-e 44.
-
-
-LaTeX Warning: Reference `ch:methodologie' on page 14 undefined on input line 4
-6.
-
-
-LaTeX Warning: Reference `ch:conclusie' on page 14 undefined on input line 50.
-
-) (standvanzaken.tex
-LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <12> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 1.
-LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 1.
+)
+(standvanzaken.tex
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 1.
 Package babel Info: Redefining dutch shorthand "~
@@ -1974,8 +1968,32 @@ Overfull \hbox (2.92525pt too wide) in paragraph at lines 15--16
 -ma-tie-tech-no-lo-gie ([]). 
  []
 
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 21.
+[15
+
+]
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 23.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 23.
+
 ! Undefined control sequence.
-l.17 \lipsum
+l.25 \lipsum
             [7-20]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1992,27 +2010,53 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 5.
- [15
-
-]
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 5.
- [16
-
-]
+ [16]
 Hoofdstuk 3.
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 5.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 14.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 14.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 17.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 17.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 21.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 50.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 50.
+
+Underfull \vbox (badness 1755) has occurred while \output is active []
+
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 55.
+ [17
+
+]
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 61.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 61.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 78.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 78.
+
 ! Undefined control sequence.
-l.14 \lipsum
+l.81 \lipsum
             [21-25]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2029,18 +2073,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 5.
- [17]
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 5.
-Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 5.
- [18
-
-]
+ [18]
 Hoofdstuk 4.
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
@@ -2064,7 +2097,9 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 108.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 108.
- [19]
+ [19
+
+]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 108.
 Package babel Info: Redefining dutch shorthand "~
@@ -2185,9 +2220,6 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 124.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
 Package biblatex Warning: Please (re)run Biber on the file:
 (biblatex)                bachproef-tin
 (biblatex)                and rerun LaTeX afterwards.
@@ -2198,12 +2230,12 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
- 40377 strings out of 427836
- 730432 string characters out of 3152479
- 1252091 words of memory out of 3000000
- 43811 multiletter control sequences out of 15000+200000
- 562613 words of font info for 62 fonts, out of 3000000 for 9000
+ 40405 strings out of 427836
+ 730922 string characters out of 3152479
+ 1254325 words of memory out of 3000000
+ 43831 multiletter control sequences out of 15000+200000
+ 566204 words of font info for 64 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 57i,11n,55p,10384b,5200s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,12n,55p,10384b,5202s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on bachproef-tin.pdf (26 pages).

@@ -13,7 +13,25 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Stand van zaken}{15}{chapter.2}
 \defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Technologisch}{15}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}De onderzochte technologiën}{16}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Orthopedagogisch}{16}{section.2.2}
+\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{17}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Vergelijking van stemgestuurde technologieën}{17}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}Algemeen}{17}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Gebruik van de Assistant}{17}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3}Ontwikkelen van een applicatie}{18}{subsection.3.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4}Vergelijking}{18}{subsection.3.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Orthopedagogisch onderzoek}{18}{section.3.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Conclusie}{19}{chapter.4}
 \defcounter {refsection}{0}\relax 
