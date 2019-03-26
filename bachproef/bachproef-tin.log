@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.9.25)  23 MAR 2019 18:16
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.9.25)  26 MAR 2019 18:24
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1766,13 +1766,13 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 34.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 28.
+(babel)             in language  on input line 34.
  [7])
 \tf@toc=\write7
 \openout7 = `bachproef-tin.toc'.
@@ -1987,13 +1987,17 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 21.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 21.
+LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 22.
 Package babel Info: Redefining dutch shorthand "|
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 26.
 Package babel Info: Redefining dutch shorthand "~
-(babel)             in language  on input line 23.
+(babel)             in language  on input line 26.
 
 ! Undefined control sequence.
-l.25 \lipsum
+l.28 \lipsum
             [7-20]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2054,9 +2058,13 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 78.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 78.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 79.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 79.
 
 ! Undefined control sequence.
-l.81 \lipsum
+l.89 \lipsum
             [21-25]
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2064,7 +2072,15 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (conclusie.tex
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 90.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 90.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 90.
+[18]) (conclusie.tex
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
@@ -2073,7 +2089,18 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 5.
- [18]
+ [19]
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 5.
+Package babel Info: Redefining dutch shorthand "|
+(babel)             in language  on input line 5.
+Package babel Info: Redefining dutch shorthand "~
+(babel)             in language  on input line 5.
+ [20
+
+]
 Hoofdstuk 4.
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 5.
@@ -2097,9 +2124,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 108.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 108.
- [19
-
-]
+ [21]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 108.
 Package babel Info: Redefining dutch shorthand "~
@@ -2108,7 +2133,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 108.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 108.
- [20
+ [22
 
 ]
 B"ylage A.
@@ -2123,13 +2148,13 @@ Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 3.
 
 
-LaTeX Warning: Citation 'Passies2018' on page 21 undefined on input line 8.
+LaTeX Warning: Citation 'Passies2018' on page 23 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'Haenen2018' on page 21 undefined on input line 8.
+LaTeX Warning: Citation 'Haenen2018' on page 23 undefined on input line 8.
 
 
-LaTeX Warning: Citation 'Schueler2018' on page 21 undefined on input line 8.
+LaTeX Warning: Citation 'Schueler2018' on page 23 undefined on input line 8.
 
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 12.
@@ -2139,29 +2164,29 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 12.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 12.
-[21]
+[23]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 20.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 20.
 
 
-LaTeX Warning: Citation 'Datanews2012' on page 22 undefined on input line 23.
+LaTeX Warning: Citation 'Datanews2012' on page 24 undefined on input line 23.
 
 
-LaTeX Warning: Citation 'Stil2016' on page 22 undefined on input line 25.
+LaTeX Warning: Citation 'Stil2016' on page 24 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'Wentzel2016' on page 22 undefined on input line 25.
+LaTeX Warning: Citation 'Wentzel2016' on page 24 undefined on input line 25.
 
 
-LaTeX Warning: Citation 'Grypdonck2015' on page 22 undefined on input line 27.
+LaTeX Warning: Citation 'Grypdonck2015' on page 24 undefined on input line 27.
 
 
-LaTeX Warning: Citation 'Jongejan2016' on page 22 undefined on input line 27.
+LaTeX Warning: Citation 'Jongejan2016' on page 24 undefined on input line 27.
 
 
-LaTeX Warning: Citation 'Stil2016' on page 22 undefined on input line 29.
+LaTeX Warning: Citation 'Stil2016' on page 24 undefined on input line 29.
 
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 30.
@@ -2171,7 +2196,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 30.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 30.
-[22]
+[24]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining dutch shorthand "~
@@ -2188,14 +2213,14 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 64.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 64.
- [23]
+ [25]
 Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 66.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 66.
 
 
-LaTeX Warning: Citation 'Vives' on page 24 undefined on input line 74.
+LaTeX Warning: Citation 'Vives' on page 26 undefined on input line 74.
 
 )
 
@@ -2209,7 +2234,7 @@ Package babel Info: Redefining dutch shorthand "|
 (babel)             in language  on input line 124.
 Package babel Info: Redefining dutch shorthand "~
 (babel)             in language  on input line 124.
-[24]
+[26]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
  (bachproef-tin.aux)
@@ -2230,12 +2255,12 @@ Package logreq Info: Writing requests to 'bachproef-tin.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 124.
  ) 
 Here is how much of TeX's memory you used:
- 40405 strings out of 427836
- 730922 string characters out of 3152479
- 1254325 words of memory out of 3000000
- 43831 multiletter control sequences out of 15000+200000
- 566204 words of font info for 64 fonts, out of 3000000 for 9000
+ 40412 strings out of 427836
+ 731071 string characters out of 3152479
+ 1254434 words of memory out of 3000000
+ 43838 multiletter control sequences out of 15000+200000
+ 569628 words of font info for 66 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  57i,12n,55p,10384b,5202s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on bachproef-tin.pdf (26 pages).
+Output written on bachproef-tin.pdf (28 pages).

@@ -17,6 +17,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.1}De onderzochte technologiën}{16}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Google Assistant en Actions}{16}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Amazon Alexa en Skills}{16}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Microsoft Cortana en Skills}{16}{section*.8}
+\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Orthopedagogisch}{16}{section.2.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Methodologie}{17}{chapter.3}
@@ -29,21 +35,23 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1.3}Ontwikkelen van een applicatie}{18}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Vergelijking}{18}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.4}Vergelijking van de verschillende technologieën}{18}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Orthopedagogisch onderzoek}{18}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{19}{chapter.4}
+\contentsline {subsection}{\numberline {3.2.1}De zoektocht naar een gepaste doelgroep}{18}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{21}{appendix.A}
+\contentsline {chapter}{\numberline {4}Conclusie}{21}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{21}{section.A.1}
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{23}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{22}{section.A.2}
+\contentsline {section}{\numberline {A.1}Introductie}{23}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{23}{section.A.3}
+\contentsline {section}{\numberline {A.2}State-of-the-art}{24}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{23}{section.A.4}
+\contentsline {section}{\numberline {A.3}Methodologie}{25}{section.A.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{24}{section.A.5}
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{25}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{26}{section.A.5}
 \contentsfinish 
