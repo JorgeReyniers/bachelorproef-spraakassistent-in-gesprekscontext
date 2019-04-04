@@ -9,13 +9,17 @@
 
 @snap[west span-50]
 
-@size[0.5em](@quote[ik heb intuïtief het gevoel dat andere sectoren misschien meer kans hebben omdat zowel cliënten als begeleiders dit als heel zinvol zullen ervaren, terwijl dit in de jeugdzorg minder is, omdat je juist zit met die emotionele problematiek.](Iris Storme, docent Orthopedagogie HoGent))
+@size[0.5em](ik heb intuïtief het gevoel dat andere sectoren misschien meer kans hebben omdat zowel cliënten als begeleiders dit als heel zinvol zullen ervaren, terwijl dit in de jeugdzorg minder is, omdat je juist zit met die emotionele problematiek.)
+
+-Iris Storme, docent orthopedagogie HoGent
 
 @snapend
 
 @snap[east span-50]
 
-@size[0.5em](@quote[Je kan niet inschatten of ze zich op hun gemak gaan voelen bij u. Bij de één gaat dat heel spontaan na vijf minuten zijn en bij de ander een paar maand. Er zijn doelgroepen die veel gemakkelijker bereikbaar zijn en misschien moet je daar eens gaan kijken.](Margot De Donder))
+@size[0.5em](Je kan niet inschatten of ze zich op hun gemak gaan voelen bij u. Bij de één gaat dat heel spontaan na vijf minuten zijn en bij de ander een paar maand. Er zijn doelgroepen die veel gemakkelijker bereikbaar zijn en misschien moet je daar eens gaan kijken.)
+
+-Margot De Donder
 
 @snapend
 
