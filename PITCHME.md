@@ -1,4 +1,5 @@
-# Elevator Pitch 5-04
+# Elevator Pitch
+## 5-04
 
 ---
 
@@ -10,8 +11,6 @@
 
 > > -Iris Storme, docent Orthopedagogie Hogeschool Gent
 
-***
-
 > “Je kan niet inschatten of ze zich op hun gemak gaan voelen bij u. Bij de één gaat dat heel spontaan na vijf minuten zijn en bij de ander een paar maand. Er zijn doelgroepen die veel gemakkelijker bereikbaar zijn en misschien moet je daar eens gaan kijken.”
 
 > > -Margot De Donder
@@ -22,7 +21,9 @@
 ![](documenten/img/artikelRodeKruisApp.jpg)
 
 ---
+@snap[north span-100 headline]
 ## in the meantime..
+@snapend
 
 @snap[west span-50]
 ![](documenten/img/GoogleActionCode.png)
@@ -32,7 +33,7 @@
 @snapend
 
 @snap[east span-50]
-![](documenten/img/MyCroftAiScreen.png)
+![](documenten/img/MyCroftAIScreen.png)
 
 ### Mycroft.AI
 @snapend
