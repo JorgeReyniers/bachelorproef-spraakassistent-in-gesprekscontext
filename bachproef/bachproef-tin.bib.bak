@@ -1,26 +1,15 @@
-@book{Knuth1998,
- author = {Knuth, Donald E.},
- title = {The art of computer programming,  volume 3: (2nd ed.) sorting and searching},
- year = {1998},
- publisher = {Addison Wesley Longman Publishing Co., Inc.},
- address = {Redwood City, CA, USA}
+% Encoding: UTF-8
+
+@Article{Koster1999,
+  author   = {Koster R.W. and Buiting J.M.},
+  title    = {Defibrilleren met een automatische externe defibrillator buiten het ziekenhuis: een levensreddende, maar voorbehouden handeling?},
+  journal  = {NTvG, Nederlands Tijdschrift voor Geneeskunde},
+  year     = {1999},
+  month    = mar,
+  abstract = {Defibrillation outside hospital using an automatic external defibrillator: a life-saving but restricted action? -
+
+Application of the automatic external defibrillator can improve the chance of success during resuscitation of out-of-hospital cardiac arrest, because lay persons can defibrillate awaiting the arrival of the ambulance. Defibrillation is mentioned in the Dutch Individual Health Care Professionals Act as a precluded action. Defibrillation with an automatic external defibrillator should be excluded from the list of precluded actions, because application is almost 100 safe and because the subject is not within the scope of the law which is restricted to professional activities and non-emergency actions. Defibrillation with an automatic external defibrillator is acceptable.},
+  url      = {https://www.ntvg.nl/artikelen/defibrilleren-met-een-automatische-externe-defibrillator-buiten-het-ziekenhuis-een/volledig},
 }
 
-@book{Pollefliet2011,
-  author = {Pollefliet, Leen},
-  title = {Schrijven van verslag tot eindwerk: do's en don'ts},
-  year = {2011},
-  publisher = {Academia Press},
-  address = {Gent}
-}
-
-@article{Creeger2009,
-  author = {Creeger, Mache},
-  journal = {Communications of the ACM},
-  number = {8},
-  pages = {50--56},
-  title = {{CTO Roundtable: Cloud Computing}},
-  volume = {52},
-  year = {2009}
-}
-
+@Comment{jabref-meta: databaseType:bibtex;}
