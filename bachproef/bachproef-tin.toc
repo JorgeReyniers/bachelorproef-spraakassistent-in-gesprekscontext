@@ -5,57 +5,59 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Probleemstelling}{13}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{14}{section.1.2}
+\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{13}{section.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{14}{section.1.3}
+\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{13}{section.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{14}{section.1.4}
+\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{13}{section.1.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Stand van zaken}{15}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Technologisch}{15}{section.2.1}
+\contentsline {section}{\numberline {2.1}De wereld van de spraakgestuurde technologie}{15}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.1}De onderzochte technologiën}{16}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.1}Spraakgestuurde technologie}{15}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Google Assistant en Actions}{16}{section*.6}
+\contentsline {subsection}{\numberline {2.1.2}De bekende spraakassistenten}{16}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Amazon Alexa en Skills}{16}{section*.7}
+\contentsline {section}{\numberline {2.2}Eerste hulp bij ongevallen}{17}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Microsoft Cortana en Skills}{16}{section*.8}
+\contentsline {section}{\numberline {2.3}Bestaande eerste hulpapplicaties}{17}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Orthopedagogisch}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.3.1}De Vlaamse EHBO-app van het Rode Kruis}{17}{subsection.2.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{17}{chapter.3}
+\contentsline {subsection}{\numberline {2.3.2}De Nederlandse EHBO-app van het Rode Kruis}{18}{subsection.2.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Vergelijking van stemgestuurde technologieën}{17}{section.3.1}
+\contentsline {chapter}{\numberline {3}Methodologie}{19}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Algemeen}{17}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.1}Vergelijking van stemgestuurde technologieën}{19}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Gebruik van de Assistant}{17}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.1}Algemeen}{19}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.3}Ontwikkelen van een applicatie}{18}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.2}Gebruik van de Assistant}{19}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.4}Vergelijking van de verschillende technologieën}{18}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.3}Ontwikkelen van een applicatie}{20}{subsection.3.1.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Orthopedagogisch onderzoek}{18}{section.3.2}
+\contentsline {subsection}{\numberline {3.1.4}Vergelijking van de verschillende technologieën}{20}{subsection.3.1.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}De zoektocht naar een gepaste doelgroep}{18}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.2}Orthopedagogisch onderzoek}{20}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{18}{section*.9}
+\contentsline {subsection}{\numberline {3.2.1}De zoektocht naar een gepaste doelgroep}{20}{subsection.3.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{19}{section*.10}
+\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{20}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{21}{chapter.4}
+\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{21}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{23}{appendix.A}
+\contentsline {chapter}{\numberline {4}Conclusie}{23}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{23}{section.A.1}
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{25}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{24}{section.A.2}
+\contentsline {section}{\numberline {A.1}Introductie}{25}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{25}{section.A.3}
+\contentsline {section}{\numberline {A.2}State-of-the-art}{26}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{25}{section.A.4}
+\contentsline {section}{\numberline {A.3}Methodologie}{27}{section.A.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{26}{section.A.5}
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{27}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{28}{section.A.5}
 \contentsfinish 

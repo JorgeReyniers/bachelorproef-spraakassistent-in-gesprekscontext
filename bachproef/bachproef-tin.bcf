@@ -2125,20 +2125,16 @@
     <bcf:datasource type="file" datatype="bibtex">../voorstel/voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Pollefliet2011</bcf:citekey>
-    <bcf:citekey order="2">Pollefliet2011</bcf:citekey>
-    <bcf:citekey order="3">Knuth1998</bcf:citekey>
-    <bcf:citekey order="4">Creeger2009</bcf:citekey>
-    <bcf:citekey order="5">Passies2018</bcf:citekey>
-    <bcf:citekey order="6">Haenen2018</bcf:citekey>
-    <bcf:citekey order="7">Schueler2018</bcf:citekey>
-    <bcf:citekey order="8">Datanews2012</bcf:citekey>
+    <bcf:citekey order="1">Passies2018</bcf:citekey>
+    <bcf:citekey order="2">Haenen2018</bcf:citekey>
+    <bcf:citekey order="3">Schueler2018</bcf:citekey>
+    <bcf:citekey order="4">Datanews2012</bcf:citekey>
+    <bcf:citekey order="5">Stil2016</bcf:citekey>
+    <bcf:citekey order="6">Wentzel2016</bcf:citekey>
+    <bcf:citekey order="7">Grypdonck2015</bcf:citekey>
+    <bcf:citekey order="8">Jongejan2016</bcf:citekey>
     <bcf:citekey order="9">Stil2016</bcf:citekey>
-    <bcf:citekey order="10">Wentzel2016</bcf:citekey>
-    <bcf:citekey order="11">Grypdonck2015</bcf:citekey>
-    <bcf:citekey order="12">Jongejan2016</bcf:citekey>
-    <bcf:citekey order="13">Stil2016</bcf:citekey>
-    <bcf:citekey order="14">Vives</bcf:citekey>
+    <bcf:citekey order="10">Vives</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
