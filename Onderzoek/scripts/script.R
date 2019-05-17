@@ -1,0 +1,6 @@
+results1 <- read.csv("J:/Hogeschool Gent/Bachelorproef/bachelorproef-spraakassistent-in-gesprekscontext/Onderzoek/Onderzoeksresultaten/spraakkwaliteit stemgestuurde assistenten.csv", sep=",")
+library(eeptools)
+results1$leeftijd <- floor(age_calc(as.Date(results1$geboortedatum), units = "years"))
+boxplot(leeftijd, main="Leeftijd van de deelnemers", yaxt='n')
+axis(side=2, at=seq(0, 100, by = 5))
+sd(leeftijd)

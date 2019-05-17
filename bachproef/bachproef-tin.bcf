@@ -2125,16 +2125,31 @@
     <bcf:datasource type="file" datatype="bibtex">../voorstel/voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">Passies2018</bcf:citekey>
-    <bcf:citekey order="2">Haenen2018</bcf:citekey>
-    <bcf:citekey order="3">Schueler2018</bcf:citekey>
-    <bcf:citekey order="4">Datanews2012</bcf:citekey>
-    <bcf:citekey order="5">Stil2016</bcf:citekey>
-    <bcf:citekey order="6">Wentzel2016</bcf:citekey>
-    <bcf:citekey order="7">Grypdonck2015</bcf:citekey>
-    <bcf:citekey order="8">Jongejan2016</bcf:citekey>
-    <bcf:citekey order="9">Stil2016</bcf:citekey>
-    <bcf:citekey order="10">Vives</bcf:citekey>
+    <bcf:citekey order="3">Taalunie2017</bcf:citekey>
+    <bcf:citekey order="4">Rouse2016</bcf:citekey>
+    <bcf:citekey order="5">Vox-Creative2019</bcf:citekey>
+    <bcf:citekey order="6">IBM2011</bcf:citekey>
+    <bcf:citekey order="7">IBM2011</bcf:citekey>
+    <bcf:citekey order="8">IBM2011</bcf:citekey>
+    <bcf:citekey order="9">Pinola2011</bcf:citekey>
+    <bcf:citekey order="10">Kincaid2018</bcf:citekey>
+    <bcf:citekey order="11">Pinola2011</bcf:citekey>
+    <bcf:citekey order="12">Pinola2011</bcf:citekey>
+    <bcf:citekey order="13">Kincaid2018</bcf:citekey>
+    <bcf:citekey order="14">Puri1998</bcf:citekey>
+    <bcf:citekey order="15">IBM2011</bcf:citekey>
+    <bcf:citekey order="16">Markoff2011</bcf:citekey>
+    <bcf:citekey order="17">Markoff2011</bcf:citekey>
+    <bcf:citekey order="18">Passies2018</bcf:citekey>
+    <bcf:citekey order="19">Haenen2018</bcf:citekey>
+    <bcf:citekey order="20">Schueler2018</bcf:citekey>
+    <bcf:citekey order="21">Datanews2012</bcf:citekey>
+    <bcf:citekey order="22">Stil2016</bcf:citekey>
+    <bcf:citekey order="23">Wentzel2016</bcf:citekey>
+    <bcf:citekey order="24">Grypdonck2015</bcf:citekey>
+    <bcf:citekey order="25">Jongejan2016</bcf:citekey>
+    <bcf:citekey order="26">Stil2016</bcf:citekey>
+    <bcf:citekey order="27">Vives</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

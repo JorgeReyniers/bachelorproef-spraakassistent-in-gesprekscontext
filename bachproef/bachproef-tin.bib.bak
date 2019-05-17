@@ -12,4 +12,100 @@ Application of the automatic external defibrillator can improve the chance of su
   url      = {https://www.ntvg.nl/artikelen/defibrilleren-met-een-automatische-externe-defibrillator-buiten-het-ziekenhuis-een/volledig},
 }
 
+@Article{Decroubele2019,
+  author  = {Peter Decroubele},
+  title   = {EHBO voor iedereen: app van Rode Kruis helpt omstaanders in crisissituaties.},
+  journal = {VRT NWS},
+  year    = {2019},
+  month   = apr,
+  url     = {https://www.vrt.be/vrtnws/nl/2019/04/02/ehbo-voor-iedereen-app-van-het-rode-kruis-helpt-omstanders-in-c/},
+}
+
+@Article{Gezondheid.be2018,
+  author  = {Gezondheid.be},
+  title   = {Hoe herkent u een hartstilstand?},
+  journal = {Gezondheid.be},
+  year    = {2018},
+  url     = {https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=26308},
+}
+
+@Article{Brandt2018,
+  author  = {Mathias Brandt},
+  title   = {Smart Assistants Are Getting Smarter},
+  journal = {Statista},
+  year    = {2018},
+  month   = apr,
+  url     = {https://www.statista.com/chart/9580/how-smart-are-smart-assistants/},
+}
+
+@Article{Fernandocomet2018,
+  author  = {Fernandocomet},
+  title   = {Voice User Interface Insights},
+  journal = {Medium},
+  year    = {2018},
+  month   = aug,
+  url     = {https://blog.prototypr.io/voice-user-interface-insights-686fe441e425},
+}
+
+@Article{Taalunie2017,
+  author  = {Nederlandse Taalunie},
+  title   = {Nederlands in nieuwe technologieën en toepassingen},
+  journal = {Nederlandse Taalunie},
+  year    = {2017},
+  month   = jun,
+  url     = {http://taalunieversum.org/inhoud/taal-en-spraaktechnologie},
+}
+
+@Article{Rouse2016,
+  author  = {Margaret Rouse and Karolina Kiwak},
+  title   = {Speech recognition},
+  journal = {TechTarget},
+  year    = {2016},
+  month   = dec,
+  url     = {https://searchcustomerexperience.techtarget.com/definition/speech-recognition},
+}
+
+@Article{Vox-Creative2019,
+  author  = {Vox-Creative},
+  title   = {A Brief History Of Voice Assistants},
+  journal = {The Verge},
+  year    = {2019},
+  url     = {https://www.theverge.com/ad/17855294/a-brief-history-of-voice-assistants},
+}
+
+@Article{IBM2011,
+  author  = {IBM},
+  title   = {Pioneering Speech Recognition},
+  journal = {IBM},
+  year    = {2011},
+  url     = {https://www.ibm.com/ibm/history/ibm100/us/en/icons/speechreco/
+},
+}
+
+@Article{Pinola2011,
+  author  = {Melanie Pinola},
+  title   = {Speech Recognition Through the Decades: How We Ended Up With Siri},
+  journal = {pcworld},
+  year    = {2011},
+  month   = nov,
+  url     = {https://www.pcworld.com/article/243060/speech_recognition_through_the_decades_how_we_ended_up_with_siri.html},
+}
+
+@Article{Kincaid2018,
+  author  = {Jason Kincaid},
+  title   = {A Brief History of ASR: Automatic Speech Recognition},
+  journal = {Medium},
+  year    = {2018},
+  month   = jul,
+  url     = {https://medium.com/descript/a-brief-history-of-asr-automatic-speech-recognition-b8f338d4c0e5},
+}
+
+@Article{Puri1998,
+  author  = {Shaifali Puri},
+  title   = {Dragon Systems SPEECH-RECOGNITION SOFTWARE},
+  journal = {Fortune magazine},
+  year    = {1998},
+  url     = {http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
