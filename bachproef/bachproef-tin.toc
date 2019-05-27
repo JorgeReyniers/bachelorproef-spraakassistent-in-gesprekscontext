@@ -15,77 +15,81 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Spraakgestuurde technologie}{17}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Spraakassistenten}{18}{section.2.2}
+\contentsline {subsection}{\numberline {2.1.1}Spraakherkenning}{17}{subsection.2.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}De geschiedenis van spraakassistenten}{18}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.1.2}Spraaksynthese}{18}{subsection.2.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jaren 50 - 60}{18}{section*.6}
+\contentsline {section}{\numberline {2.2}Spraakassistenten}{20}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jaren 70 - 80}{18}{section*.7}
+\contentsline {subsection}{\numberline {2.2.1}De geschiedenis van spraakassistenten}{20}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jaren 90}{19}{section*.8}
+\contentsline {subsubsection}{Jaren 50 - 60}{20}{section*.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Van 2010 tot nu}{20}{section*.9}
+\contentsline {subsubsection}{Jaren 70 - 80}{20}{section*.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.2}Hoe werkt een spraakassistent}{20}{subsection.2.2.2}
+\contentsline {subsubsection}{Jaren 90}{21}{section*.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.3}De spraakassistenten van nu}{20}{subsection.2.2.3}
+\contentsline {subsubsection}{Van 2010 tot nu}{22}{section*.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Eerste hulp bij ongevallen}{22}{section.2.3}
+\contentsline {subsection}{\numberline {2.2.2}Hoe werkt een spraakassistent}{22}{subsection.2.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Bestaande eerste hulpapplicaties}{22}{section.2.4}
+\contentsline {subsection}{\numberline {2.2.3}De spraakassistenten van nu}{22}{subsection.2.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.1}De Vlaamse EHBO-app van het Rode Kruis}{22}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.3}Eerste hulp bij ongevallen}{23}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4.2}Andere EHBO-applicaties}{23}{subsection.2.4.2}
+\contentsline {section}{\numberline {2.4}Bestaande eerste hulpapplicaties}{24}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{25}{chapter.3}
+\contentsline {subsection}{\numberline {2.4.1}De Vlaamse EHBO-app van het Rode Kruis}{24}{subsection.2.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Vergelijking van stemgestuurde assistenten}{25}{section.3.1}
+\contentsline {subsection}{\numberline {2.4.2}Andere EHBO-applicaties}{25}{subsection.2.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Het verloop van het onderzoek}{25}{section.3.2}
+\contentsline {chapter}{\numberline {3}Methodologie}{27}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}De keuze van de spraakassistenten}{26}{section.3.3}
+\contentsline {section}{\numberline {3.1}Vergelijking van stemgestuurde assistenten}{27}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Algemeen}{26}{subsection.3.3.1}
+\contentsline {section}{\numberline {3.2}Het verloop van het onderzoek}{27}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Gebruik van de assistant}{27}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.3}De keuze van de spraakassistenten}{28}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Individueel onderzoek}{27}{section*.10}
+\contentsline {subsection}{\numberline {3.3.1}Algemeen}{28}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Vergelijkend onderzoek van de assistenten bij derden}{27}{section*.11}
+\contentsline {subsection}{\numberline {3.3.2}Gebruik van de assistant}{29}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Ontwikkelen van een applicatie}{27}{subsection.3.3.3}
+\contentsline {subsubsection}{Individueel onderzoek}{29}{section*.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Vergelijking van de verschillende technologieën}{28}{subsection.3.3.4}
+\contentsline {subsubsection}{Vergelijkend onderzoek van de assistenten bij derden}{29}{section*.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Orthopedagogisch onderzoek}{28}{section.3.4}
+\contentsline {subsection}{\numberline {3.3.3}Ontwikkelen van een applicatie}{29}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}De zoektocht naar een gepaste doelgroep}{28}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.3.4}Vergelijking van de verschillende technologieën}{30}{subsection.3.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{28}{section*.12}
+\contentsline {section}{\numberline {3.4}Orthopedagogisch onderzoek}{30}{section.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{29}{section*.13}
+\contentsline {subsection}{\numberline {3.4.1}De zoektocht naar een gepaste doelgroep}{30}{subsection.3.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultaten vergelijkend onderzoek}{31}{chapter.4}
+\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{30}{section*.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}De eerste hulp assistent}{33}{chapter.5}
+\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{31}{section*.13}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}De functionaliteiten}{33}{section.5.1}
+\contentsline {chapter}{\numberline {4}Resultaten vergelijkend onderzoek}{33}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Persona}{33}{section.5.2}
+\contentsline {chapter}{\numberline {5}De eerste hulp assistent}{35}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusie}{35}{chapter.6}
+\contentsline {section}{\numberline {5.1}De functionaliteiten}{35}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{37}{appendix.A}
+\contentsline {section}{\numberline {5.2}Persona}{35}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{37}{section.A.1}
+\contentsline {chapter}{\numberline {6}Conclusie}{37}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{38}{section.A.2}
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{39}{appendix.A}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{39}{section.A.3}
+\contentsline {section}{\numberline {A.1}Introductie}{39}{section.A.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{39}{section.A.4}
+\contentsline {section}{\numberline {A.2}State-of-the-art}{40}{section.A.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{40}{section.A.5}
+\contentsline {section}{\numberline {A.3}Methodologie}{41}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{41}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{42}{section.A.5}
 \contentsfinish 

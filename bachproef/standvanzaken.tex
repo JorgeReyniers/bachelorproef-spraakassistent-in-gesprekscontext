@@ -3,11 +3,38 @@
 \section{Spraakgestuurde technologie}
 Er zijn enkele begrippen die met het thema te maken hebben, maar die niet hetzelfde omvatten. Taal- en spraaktechnologie is een verzamelnaam voor allerlei technieken waarmee de computer communiceert met zijn gebruiker door menselijke taal.\autocite{Taalunie2017} Het is de poging van de computer om de menselijke taal na te bootsen.
 
-Spraaktechnologie wordt vaak geassocieerd met spraakherkenning. Volgens \autocite{Rouse2016} is spraakherkenning de kunst van de computer om gesproken taal te identificeren en om te zetten naar voor de computer leesbare machinetaal. Dit is echter maar één techniek die gebruikt wordt binnen de spraaktechnologie. Een tweede techniek, die net het omgekeerde is van spraakherkenning, is spraaksynthese. Volgens dezelfde bron is spraaksynthese menselijke spraak dat is ontwikkeld door een computer. Het wordt gebruikt om geschreven tekst om te zetten naar gesproken taal, geproduceerd door de computer.
+\subsection{Spraakherkenning}
+Spraaktechnologie wordt vaak geassocieerd met spraakherkenning. Volgens \autocite{Rouse2016} is spraakherkenning de kunst van de computer om gesproken taal te identificeren en om te zetten naar voor de computer leesbare machinetaal.
+Voor een computer succesvol spraak heeft omgevormd naar tekst, wordt er een lang en moeilijk proces doorlopen. Er wordt kort besproken wat de belangrijkste stappen zijn in het converteren van uitgesproken tekst naar tekst op een computerscherm.
+\autocite{Vervoort2017}, \autocite{Geitgey2016} en \autocite{Woodford 2019} beschrijven hoe spraakherkenning in zijn werk gaat.
+Wanneer een persoon iets uitspreekt, wordt zijn stem als geluidsgolven opgenomen door een microfoon. De analoge signalen worden omgezet naar digitale door een techniek genaamd sampling. Op vaste intervallen wordt de amplitude van de geluidsgolf gemeten en gedigitaliseerd. Het geluid is omgezet naar bits.
+
+Uit het gedigitaliseerd geluid wordt geprobeerd om zo veel mogelijk ruis te filteren. Daarnaast wordt het ook naar een vast volume en een gelijke snelheid gebracht, omdat niet iedereen even snel en even luid spreekt. De uiteindelijke bedoeling is om een neuraal netwerk in te zetten om klanken en woorden te vormen uit het digitale geluid. Met een neuraal netwerk wordt de techniek bedoeld uit de IT-wereld die de werking van de hersenen gaat nabootsen om een computer zichzelf taken te leren.
+Uit deze verkregen verzameling van getallen is het voor een neuraal netwerk nog steeds moeilijk om letters en woorden te herkennen. De bits worden eerst nog gegroepeerd in delen van ongeveer 20 milliseconden lang. Elke groep wordt dan opgesplitst in frequentiebanden waar telkens wordt nagegaan hoeveel energie er in vervat zit. Zo wordt een spectrogram gemaakt die een soort van vingerafdruk voorstelt van het geluid. In deze soort data kan een neuraal netwerk gemakkelijker patronen herkennen.
+\begin{figure}[h]
+    \includegraphics[width=0.7\linewidth]{img/spectogram}
+    \caption{een voorbeeld van een spectrogram \autocite{Vervoort2017}}
+    \label{fig:spectrogram}
+\end{figure}
+Dit is het moment waar het neurale netwerk zijn werk begint te doen. Hij gaat aan elk stukje data een spraakklank toekennen. Spraakklanken zijn de klanken die samen een taal vormt. Voor de Nederlandse taal bestaan er 40 verschillende spraakklanken. Klanken worden in woordenboeken fonetisch beschreven om duidelijk te maken hoe woorden worden uitgesproken. Het neurale netwerk gaat uit een fonetische lijst de spraakklank halen die de grootste waarschijnlijkheid heeft om correct bij een audiosignaal te horen. Je kunt nooit helemaal zeker zijn dat er een bepaalde klank is uitgesproken. Dit klinkt eenvoudiger dan het is. Elke klank wordt namelijk door elke mens op een andere manier uitgesproken. Door het netwerk te trainen met een grote hoeveelheid data, zal het beter leren omgaan met deze verscheidenheid.
+
+De laatste stap is het omzetten van de klanken naar woorden. De klanken worden aan elkaar gelinkt tot woorden. Ook hierbij helpt trainingsdata om accurater woorden en zinnen te vormen. Als het netwerk bijvoorbeeld twijfelt tussen de woorden hallo, aloo en haylow, dan zal het waarschijnlijkheid kiezen voor 'hallo' omdat dit waarschijnlijk vaker voorkomt in de trainingsset. Daarnaast houdt het ook rekening met de waarschijnlijkheid dat een bepaald woord volgt op een woord. Ter illustratie, een netwerk zal door te trainen begrijpen dat de kans groter is dat het woord 'voorbeeld' gevolgd is op woorden zoals 'als, een of goed' dan op woorden zoals 'inktvis of tafel'. Voor neurale netwerken populair werden werd hiervoor een andere techniek gebruikt, namelijk het Hidden Markov Model. Hoe dit model precies werkt is buiten de scope van dit onderzoek.
+
+\subsection{Spraaksynthese}
+Een andere techniek, die net het omgekeerde is van spraakherkenning, is spraaksynthese. Volgens \autocite{Rouse2016} is spraaksynthese menselijke spraak dat is gevormd door een computer. Spraaksynthese is de basis voor elk Text-To-Speech systeem. Het wordt gebruikt om geschreven tekst om te zetten naar gesproken taal, geproduceerd door de computer.
+Spraaksynthese is aanwezig in ons dagelijkse leven. In automatische telefoongesprekken, de luchthaven, gps-systemen, op de bus en natuurlijk in digitale assistenten. \autocite{Seijas2018} vertelt dat er twee soorten van methodes zijn voor Text-To-Speech. Concatenative TTS, waar korte audiofragmenten aaneengeschakeld worden, is daar één van. Het is goed verstaanbaar omdat de woorden zijn opgenomen in hoge kwaliteit, maar het klinkt niet natuurlijk. De andere methode, parametric TTS bedenkt de spraak gebaseerd op enkele parameters. Het haalt taalkundige kenmerken uit de tekst. Daarnaast extraheert het vocoder kenmerken die het corresponderende spraaksignaal representeert. Hier wordt niet verder op ingegaan omdat er nu een derde methode is opgedoken.
+Deep Learning heeft ervoor gezorgd dat de Text-To-Speechsoftware geavanceerder werd. Eenvoudigweg is deep learning een benaming voor complexe neurale netwerken. 
+
+--Hier nog uitleg over deep learning TTS--
+--Hier nog uitleg over spraakhsynthese--
+Ook iets vermelden over Lyrebird, waar je zelf al met je eigen stem text to speech kan doen in het Engels. iets over dat dat de nieuwe Deep Learning methode is.
 
 Spraaktechnologie omvat naast deze twee begrippen nog meer. Denk maar aan spelling- en grammaticacontrole, spraak- en tekstanalyse, automatische vertalingen, enzovoort.
 
 Spraakherkenning en spraaksynthese zijn nodig in het ontwikkelen van een Voice User Interface (VUI), of stemgestuurde gebruikersomgeving, waar de gebruiker de computer als het ware bedient met zijn stem in plaats van bijvoorbeeld een toetsenbord of aanrakingen. De computer moet gesproken taal van de gebruiker begrijpen (spraakherkenning) en moet een gepast antwoord teruggeven (spraaksynthese). Spraakassistenten zoals Alexa, Siri of Google Assistant zijn voorbeelden van VUI's.
+
+Omdat een assistent de spraak kan omzetten naar tekst betekent dit nog niet dat hij begrijpt wat iemand heeft verteld. Assistenten worden ontwikkeld met Natural Language Processing. Het is een methode om ongestructureerde data gebaseerd op de natuurlijke taal te verwerken tot een vorm die de computer kan begrijpen. Het zorgt ervoor dat de betekenis of het doel wordt achterhaald van wat iemand zegt. NLP valt onder de noemer van Artificiële Intelligentie en het maakt gebruik van deep learning modellen. Modellen die getraind zijn om patronen te gaan herkennen in de menselijke taal door grote hoeveelheden aan data van bijvoorbeeld conversaties en berichten door te nemen. In principe is het vergelijkbaar met hoe een kind de taal leert, namelijk door naar voorbeelden te luisteren. \autocite{Rouse2017}
+Volgens \autocite{Garbade2018} kan NLP voornamelijk onderverdeeld worden in twee niveaus, syntaxis en semantiek. Syntaxis is de grammatica van de tekst leren begrijpen. Het splitsen van zinnen of woorden en elk deel identificeren is één van de vele functies. Semantiek is de betekenis van de tekst leren begrijpen. Algoritmen worden gebruikt om bijvoorbeeld woorden te interpreteren en te classificeren als persoonsnaam of plaatsnaam.
 
 \section{Spraakassistenten}
 Een spraakassistent, ook wel een virtuele, persoonlijke of slimme assistent genoemd, voert taken uit via verbale instructies van een gebruiker. Het is vooral aanwezig in smartphones, maar het wordt ook geïntegreerd in smart speakers, auto's of wearables. Dit onderzoek vergelijkt twee van de meest prestigieuze assistenten, Google’s Assistant en Amazon’s Alexa. Daarnaast zijn ook Apple's Siri, Microsoft's Cortana en Samsung's Bixby bekende voorbeelden.
@@ -23,7 +50,7 @@ De eerste systemen die ietwat leken op een spraakassistent waren gefocust op het
 \begin{figure}[h]
     \includegraphics[width=0.7\linewidth]{img/Shoebox}
     \caption{William C. Dersch’s Shoebox deed eenvoudige berekeningen met spraakcommando's \autocite{IBM2011}}
-    \label{fig:smartassist}
+    \label{fig:shoebox}
 \end{figure}
 
 \subsubsection{Jaren 70 - 80}
@@ -43,17 +70,19 @@ In \autocite{IBM2011} is te lezen hoe een mijlpaal werd bereikt door de Watson m
 \begin{figure}[h]
     \includegraphics[width=0.7\linewidth]{img/WatsonJeopardy}
     \caption{Watson versloeg twee kampioenen in Jeopardy live op televisie \autocite{Markoff2011}}
-    \label{fig:smartassist}
+    \label{fig:watson}
 \end{figure}
 
 Kort na deze gebeurtenis in 2011 werd Siri geïntegreerd in de Iphone 4S en werd zo de eerste spraakassistent voor het grote publiek uitgebracht. Google gaf hierop een antwoord in 2012 door Google Now uit te brengen, de voorloper van de Google Assistant van vandaag. Tijdens de Microsoft BUILD conferentie in 2013 werd Cortana geïntroduceerd als de spraakassistent van Microsoft. In 2015 kwam de eerste slimme luidspreker op de markt. De Echo van Amazon, voorzien met hun slimme spraakassistent, Alexa.
 
 \subsection{Hoe werkt een spraakassistent}
+--De flow uitleggen van de gebruiker die iets vraagt tot de assistent die een antwoord heeft gegeven--
 
 \subsection{De spraakassistenten van nu}
 Volgens Google is de Google Assistant jouw eigen persoonlijke Google, die altijd bereid is om je te helpen wanneer je maar wilt. De Google Assistant bestond eerst onder de naam Google Now en was aanwezig in smartphones met een Android besturingssysteem. De Google Assistant van vandaag is te vinden in veel meer omgevingen. Smartphones, auto's, laptops, tablets, tv's, smartwatches en in hun eigen smart speaker, de Google Home. Deze speaker heeft ook een variant gekregen met een scherm, de Smart Display.
 [bron 1e paper] evalueerde verschillende functionaliteiten van spraakassistenten Google Assistant, Alexa en Siri, op correctheid en natuurlijkheid bij 8 ondervraagden. In de administratieve categorie, zoals agendabeheer, to-do-lijsten en alarmen kwam de Google Assistent als minst correct en minst natuurlijke assistant uit de bus, maar prijkt in de miscallenous category (nieuws, weer, verkeer, woordbetekenissen, rekenen,, enz.) dan weer ver bovenaan op beide vlakken. Algemeen werd de Google Assistant als de meest natuurlijke ervaren, onder andere door de toon van de stem die surprise, suspense en joy uitte.
 Voor [bron 2e paper] stelden 100 personen allerlei vragen aan voice assistants Google Assistant, Alexa, Siri en Cortana. Ze gaven telkens een score op spraakherkenning en contextueel inzicht. Google Assistant kwam als grote winnaar uit het onderzoek door 59,80 \% van de vragen te beantwoorden. Een verschil van 15,82 \% met Siri, die de op één na nauwkeurigste bleek in dit onderzoek. Google Assistant was vooral leider in categoriëen als reizen, emailing, navigatie, vertalingen en begreep volgens het onderzoek goed de verschillende variaties in de stemmen van de onderzochte personen.
+--Over De Google Speech-To-Text offline breakthrough--
 
 Amazon, één van 's werelds grootste bedrijven in het online verkopen van goederen, is ook met een spraakassistent op de markt gekomen. Het grote verschil met Google is dat de assistent voor het eerst werd gebruikt in de Echo, Amazon's smart speaker. Volgens [bron 1e paper] is de Echo Dot de favoriete smart speaker als het aankomt op het aankopen van artikelen. Dit is geen verrassing aangezien hij oorspronkelijk ontworpen is om te winkelen en zelfs de enige spraakassistent is waarmee je online kan shoppen. In [bron 2e paper] bleek Alexa de minst nauwkeurige assistant te zijn met 7,91 \% nauwkeurigheid.
 

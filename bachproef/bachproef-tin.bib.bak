@@ -108,4 +108,36 @@ Application of the automatic external defibrillator can improve the chance of su
   url     = {http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm},
 }
 
+@Article{Markoff2011,
+  author  = {John Markoff},
+  title   = {Computer Wins on ‘Jeopardy!’: Trivial, It’s Not},
+  journal = {New York Times},
+  year    = {2011},
+  url     = {https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html},
+}
+
+@Article{Garbade2018,
+  author  = {Michael J. Garbade},
+  title   = {A Simple Introduction to Natural Language Processing},
+  journal = {Becoming Human / Medium},
+  year    = {2018},
+  url     = {https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32},
+}
+
+@Article{Rouse2017,
+  author  = {Margaret Rouse and Ed Burns},
+  title   = {natural language processing (NLP)},
+  journal = {TechTarget},
+  year    = {2017},
+  url     = {https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP},
+}
+
+@Article{Seijas2018,
+  author  = {Jesús Seijas},
+  title   = {Into a better Speech Synthesis Technology},
+  journal = {Becoming Human / Medium},
+  year    = {2018},
+  url     = {https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
