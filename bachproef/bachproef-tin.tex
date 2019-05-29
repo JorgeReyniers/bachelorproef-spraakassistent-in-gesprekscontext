@@ -4,7 +4,16 @@
 %%=============================================================================
 
 \documentclass[fleqn,a4paper,12pt]{book}
-
+\usepackage[backend=biber]{biblatex}
+\usepackage{listings}
+\lstset{frame=tb,
+    language=R,
+    breaklines=true,
+    showstringspaces=false,
+    columns=flexible,
+    numbers=none,
+    tabsize=3
+}
 \input{structure}
 
 %%---------- Documenteigenschappen --------------------------------------------
@@ -73,13 +82,13 @@
 % dat geval je figuren/tabellen altijd een korte beschrijving:
 %
 %  \caption[korte beschrijving]{uitgebreide beschrijving}
-
 \listoffigures
 \listoftables
 
 % Als je een lijst van afkortingen of termen wil toevoegen, dan hoort die
 % hier thuis. Gebruik bijvoorbeeld de ``glossaries'' package.
 % https://www.sharelatex.com/learn/Glossaries
+
 
 %%---------- Kern -------------------------------------------------------------
 
@@ -96,8 +105,8 @@
 %\input{...}
 %\input{...}
 %...
-
 \input{conclusie}
+
 
 %%=============================================================================
 %% Bijlagen
@@ -108,7 +117,7 @@
 %%---------- Onderzoeksvoorstel -----------------------------------------------
 
 \chapter{Onderzoeksvoorstel}
-
+\label{apendix:onderzoeksvoorstel}
 Het onderwerp van deze bachelorproef is gebaseerd op een onderzoeksvoorstel dat vooraf werd beoordeeld door de promotor. Dat voorstel is opgenomen in deze bijlage.
 
 % Verwijzing naar het bestand met de inhoud van het onderzoeksvoorstel
@@ -116,7 +125,19 @@ Het onderwerp van deze bachelorproef is gebaseerd op een onderzoeksvoorstel dat 
 
 %%---------- Andere bijlagen --------------------------------------------------
 % TODO: Voeg hier eventuele andere bijlagen toe
-%\input{...}
+\chapter{Stappenplan proefafname}
+\label{appendix:stappenplan proefafname}
+
+De verschillende stappen die de onderzoeker heeft gevolgd tijdens elke afname van de proef zijn genoteerd en afgeprint. Hierdoor kon de onderzoeker deze steeds bij zich houden om zeker niet af te wijken van het vaste plan. Het stappenplan is opgenomen in deze bijlage.
+
+\input{../bijlagen/stappenplan-proefafname}
+
+\chapter{Stappenplan analyse}
+\label{appendix:stappenplan analyse}
+
+Om de huidige resultaten te verkrijgen zijn er instructies uitgevoerd in R, gebruikmakend van R Studio. Wanneer men de analyse opnieuw wilt uitvoeren, kunnen de stappen, opgenomen in deze bijlage, gevolgd worden. Om het overzichtelijk te houden wordt er af en toe verwezen naar externe scripts. Deze zijn te vinden onder de map onderzoek/scripts in de repository beschreven in \ref{s:verwijzing naar repository}.
+
+\input{../bijlagen/stappenplan-analyse}
 
 %%---------- Referentielijst --------------------------------------------------
 \printbibliography[heading=bibintoc]

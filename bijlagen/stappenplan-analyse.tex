@@ -1,0 +1,148 @@
+\section{De spraaksynthese van de assistenten}
+\subsection{Inlezen van csv-file}
+\begin{lstlisting}
+results <- read.csv("[pad naar map]/spraakkwaliteit stemgestuurde assistenten.csv", sep=",")
+\end{lstlisting}
+
+\subsection{Installeren van de nodige packages}
+\begin{lstlisting}
+Install.packages(“eeptools”)
+Install.packages(“reshape2”)
+Install.packages(“stringr”)
+install.packages(“formattable”)
+\end{lstlisting}
+
+\subsection{Voorbereiden van de data}
+\begin{lstlisting}
+Run script dataformat_leeftijden.R
+Run script dataformat_vergelijking_assistenten_boxplots.R
+Run script dataformat_vergelijking_assistenten_barplots.R
+Run script dataformat_per_eigenschap.R
+Run script dataformat_per_assistent.R
+Run script dataformat_ttesten.R
+\end{lstlisting}
+
+\subsection{Leeftijd van de deelnemers}
+\begin{lstlisting}
+boxplot(leeftijd, main="Leeftijd van de deelnemers", yaxt='n')
+axis(side=2, at=seq(0, 100, by = 5))
+\end{lstlisting}
+
+\subsection{Vergelijking van de assistenten per eigenschap}
+\subsubsection{Boxplot van alle scores t.o.v. de assistenten}
+\begin{lstlisting}
+boxplot(coreResultsLong$score~coreResultsLong$assistant, main='Alle gegeven scores op de spraakkwaliteit van de assistenten', xlab="assistenten", ylab = 'score op vijf')
+\end{lstlisting}
+
+\subsubsection{Boxplots van de scores per eigenschap van de assistenten}
+\paragraph{Verstaanbaarheid}
+\begin{lstlisting}
+boxplot(verstaanbaarheid$score~verstaanbaarheid$assistant, main="Gegeven scores op de verstaanbaarheid van de assistenten", xlab="assistent", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Menselijkheid}
+\begin{lstlisting}
+boxplot(menselijkheid$score~menselijkheid$assistant, main="Gegeven scores op de menselijkheid van de assistenten", xlab="assistent", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Levendigheid}
+\begin{lstlisting}
+boxplot(levendigheid$score~levendigheid$assistant, main="Gegeven scores op de levendigheid van de assistenten", xlab="assistent", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Tempo}
+\begin{lstlisting}
+boxplot(tempo$score~tempo$assistant, main="Gegeven scores op het tempo van de assistenten", xlab="assistent", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Emotionaliteit}
+\begin{lstlisting}
+boxplot(gevoel$score~gevoel$assistant, main="Gegeven scores op de aanwezigheid van gevoel bij de assistenten", xlab="assistent", ylab = "score")
+\end{lstlisting}
+
+\subsubsection{Barplots van de scores per eigenschap van de assistenten}
+\paragraph{Verstaanbaarheid}
+\begin{lstlisting}
+barplot <- barplot(bpVerstaanbaarheid, main="verstaanbaarheid", xlab="score", col=c("lightblue","red", "yellow"), legend = rownames(bpVerstaanbaarheid), beside=TRUE)
+text(x = barplot, y=bpVerstaanbaarheid, label = bpVerstaanbaarheid, pos = 3, cex = 0.8)
+\end{lstlisting}
+
+\paragraph{Menselijkheid}
+\begin{lstlisting}
+barplot <- barplot(bpMenselijkheid, main="menselijkheid", xlab="score", col=c("lightblue","red", "yellow"), legend = rownames(bpMenselijkheid), beside=TRUE)
+text(x = barplot, y=bpMenselijkheid, label = bpMenselijkheid, pos = 3, cex = 0.8)
+\end{lstlisting}
+
+\paragraph{Levendigheid}
+\begin{lstlisting}
+barplot <- barplot(bpLevendigheid, main="levendigheid", xlab="score", col=c("lightblue","red", "yellow"), legend = rownames(bpLevendigheid), beside=TRUE)
+text(x = barplot, y=bpLevendigheid, label = bpLevendigheid, pos = 3, cex = 0.8)
+\end{lstlisting}
+
+\paragraph{Tempo}
+\begin{lstlisting}
+barplot <- barplot(bpTempo, main="tempo", xlab="score", col=c("lightblue","red", "yellow"), legend = rownames(bpTempo), beside=TRUE)
+text(x = barplot, y=bpTempo, label = bpTempo, pos = 3, cex = 0.8)
+\end{lstlisting}
+
+\paragraph{Emotionaliteit}
+\begin{lstlisting}
+barplot <- barplot(bpEmotionaliteit, main="emotionaliteit", xlab="score", col=c("lightblue","red", "yellow"), legend = rownames(bpEmotionaliteit), beside=TRUE)
+text(x = barplot, y=bpEmotionaliteit, label = bpEmotionaliteit, pos = 3, cex = 0.8)
+\end{lstlisting}
+
+\subsection{Vergelijking van de eigenschappen per assistent}
+\subsubsection{Boxplots van de scores per eigenschap voor één assistent}
+\paragraph{Alexa}
+\begin{lstlisting}
+boxplot(alexa$score~alexa$eigenschap, main="Gegeven scores op de eigenschappen van Alexa", xlab="eigenschap", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Google Assistant}
+\begin{lstlisting}
+boxplot(ga$score~ga$eigenschap, main="Gegeven scores op de eigenschappen van Google Assistant", xlab="eigenschap", ylab = "score")
+\end{lstlisting}
+
+\paragraph{Google Assistant NL}
+\begin{lstlisting}
+boxplot(ganl$score~ganl$eigenschap, main="Gegeven scores op de eigenschappen van Google Assistant in het Nederlands", xlab="eigenschap", ylab = "score")
+\end{lstlisting}
+
+\subsection{De gemiddelde score en standaardafwijking van alle eigenschappen per assistent gesorteerd van hoog naar laag}
+\begin{lstlisting}
+attach(coreResultsLong)
+mean_sd_scores <- setNames(aggregate(x = score, by=list(eigenschap, assistant), FUN = function(x) c(mean = mean(x), sd = sd(x))),c("eigenschap", "assistant", ""))
+mean_sd_scores
+mean_sd_scores_ordered <- mean_sd_scores[order(-mean_sd_scores$mean),]
+library(formattable)
+formattable(mean_sd_scores_ordered)
+\end{lstlisting}
+
+\subsubsection{t.testen}
+\begin{lstlisting}
+t.test(emotionaliteit_scores_Alexa,emotionaliteit_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(emotionaliteit_scores_GA,ttest_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(levendigheid_scores_Alexa,levendigheid_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(levendigheid_scores_GA,levendigheid_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(menselijkheid_scores_Alexa,menselijkheid_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(menselijkheid_scores_GA,menselijkheid_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(tempo_scores_Alexa,tempo_scores_GANL,alternative = "greater", paired = TRUE)
+t.test(tempo_scores_GA,tempo_scores_Alexa,alternative = "greater", paired = TRUE)
+t.test(verstaanbaarheid_scores_GA,verstaanbaarheid_scores_GANL,alternative = "greater", paired = TRUE)
+\end{lstlisting}
+
+\section{De spraakherkenning van de assistenten}
+\subsection{Inlezen van csv-file}
+\begin{lstlisting}
+results <- read.csv("[pad naar map]/spraakkwaliteit stemgestuurde assistenten.csv", sep=",")
+\end{lstlisting}
+\subsection{Voorbereiden van de data}
+\begin{lstlisting}
+Run script dataformat_tabel_alle_teksten.R
+\end{lstlisting}
+
+\subsection{Een overzicht van de gevormde tekst}
+\begin{lstlisting}
+library(formattable)
+formattable(texttable)
+\end{lstlisting}

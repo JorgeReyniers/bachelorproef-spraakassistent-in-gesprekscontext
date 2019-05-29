@@ -1,0 +1,931 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Belghmidi2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd444e33946dd3f0c327b17fa56ee01b}{%
+           family={Belghmidi},
+           familyi={B\bibinitperiod},
+           given={Loutfi},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{fullhash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{bibnamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authorbibnamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authornamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authorfullhash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{VRT NWS}
+      \field{title}{Google Assistant vanaf nu ook in ons land: hoe werkt het en wat zijn de mogelijkheden?}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.vrt.be/vrtnws/nl/2019/05/26/virtueel-assistent-oke-google-vanaf-nu-ook-in-ons-land/
+      \endverb
+      \verb{url}
+      \verb https://www.vrt.be/vrtnws/nl/2019/05/26/virtueel-assistent-oke-google-vanaf-nu-ook-in-ons-land/
+      \endverb
+    \endentry
+    \entry{Brandt2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8f446df95f218349f7451fb6e12f8ddf}{%
+           family={Brandt},
+           familyi={B\bibinitperiod},
+           given={Mathias},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8f446df95f218349f7451fb6e12f8ddf}
+      \strng{fullhash}{8f446df95f218349f7451fb6e12f8ddf}
+      \strng{bibnamehash}{8f446df95f218349f7451fb6e12f8ddf}
+      \strng{authorbibnamehash}{8f446df95f218349f7451fb6e12f8ddf}
+      \strng{authornamehash}{8f446df95f218349f7451fb6e12f8ddf}
+      \strng{authorfullhash}{8f446df95f218349f7451fb6e12f8ddf}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statista}
+      \field{month}{4}
+      \field{title}{Smart Assistants Are Getting Smarter}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.statista.com/chart/9580/how-smart-are-smart-assistants/
+      \endverb
+      \verb{url}
+      \verb https://www.statista.com/chart/9580/how-smart-are-smart-assistants/
+      \endverb
+    \endentry
+    \entry{Datanews2012}{online}{}
+      \name{editor}{1}{}{%
+        {{hash=4d3930d324a4596ae34215bc84fff7c4}{%
+           family={Datanews},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{fullhash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{bibnamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editorbibnamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editornamehash}{4d3930d324a4596ae34215bc84fff7c4}
+      \strng{editorfullhash}{4d3930d324a4596ae34215bc84fff7c4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{month}{2}
+      \field{title}{Krijtlijnen voor Vlaamse eHealth uitgezet}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://datanews.knack.be/ict/nieuws/krijtlijnen-voor-vlaamse-ehealth-uitgezet/article-normal-283363.html
+      \endverb
+      \verb{url}
+      \verb https://datanews.knack.be/ict/nieuws/krijtlijnen-voor-vlaamse-ehealth-uitgezet/article-normal-283363.html
+      \endverb
+    \endentry
+    \entry{Decroubele2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b223bcad052325a53ac2ca24eaf2ed65}{%
+           family={Decroubele},
+           familyi={D\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \strng{fullhash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \strng{bibnamehash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \strng{authorbibnamehash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \strng{authornamehash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \strng{authorfullhash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{VRT NWS}
+      \field{month}{4}
+      \field{title}{EHBO voor iedereen: app van Rode Kruis helpt omstaanders in crisissituaties.}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.vrt.be/vrtnws/nl/2019/04/02/ehbo-voor-iedereen-app-van-het-rode-kruis-helpt-omstanders-in-c/
+      \endverb
+      \verb{url}
+      \verb https://www.vrt.be/vrtnws/nl/2019/04/02/ehbo-voor-iedereen-app-van-het-rode-kruis-helpt-omstanders-in-c/
+      \endverb
+    \endentry
+    \entry{Garbade2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ffdf90f2f8e10c95f7b861c1b75660ea}{%
+           family={Garbade},
+           familyi={G\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \strng{fullhash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \strng{bibnamehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \strng{authorbibnamehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \strng{authornamehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \strng{authorfullhash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Becoming Human / Medium}
+      \field{title}{A Simple Introduction to Natural Language Processing}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32
+      \endverb
+      \verb{url}
+      \verb https://becominghuman.ai/a-simple-introduction-to-natural-language-processing-ea66a1747b32
+      \endverb
+    \endentry
+    \entry{Geitgey2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0efc5d7ce8a53d119c0a4ccac233bda}{%
+           family={Geitgey},
+           familyi={G\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \strng{fullhash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \strng{bibnamehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \strng{authorbibnamehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \strng{authornamehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \strng{authorfullhash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medium}
+      \field{title}{Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
+      \endverb
+      \verb{url}
+      \verb https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
+      \endverb
+    \endentry
+    \entry{Grypdonck2015}{online}{}
+      \name{author}{1}{}{%
+        {{hash=e61cd51854fba82d76d33045638143e4}{%
+           family={Grypdonck},
+           familyi={G\bibinitperiod},
+           given={Mieke},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=e61cd51854fba82d76d33045638143e4}{%
+           family={Grypdonck},
+           familyi={G\bibinitperiod},
+           given={Mieke},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{fullhash}{e61cd51854fba82d76d33045638143e4}
+      \strng{bibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authorbibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authornamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{authorfullhash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editorbibnamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editornamehash}{e61cd51854fba82d76d33045638143e4}
+      \strng{editorfullhash}{e61cd51854fba82d76d33045638143e4}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{29}
+      \field{month}{1}
+      \field{title}{Zora de zorgrobot, een aanwinst?}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://keepupthespirit.be/zora-de-zorgrobot-een-aanwinst/
+      \endverb
+      \verb{url}
+      \verb http://keepupthespirit.be/zora-de-zorgrobot-een-aanwinst/
+      \endverb
+    \endentry
+    \entry{Haenen2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
+           family={Haenen},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
+           family={Haenen},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{fullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{bibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authorbibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authornamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{authorfullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editorbibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editornamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \strng{editorfullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{month}{10}
+      \field{title}{Officieel: Google Home vanaf 24 oktober in Nederland te koop}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.androidplanet.nl/nieuws/google-home-release-nederland-3/
+      \endverb
+      \verb{url}
+      \verb https://www.androidplanet.nl/nieuws/google-home-release-nederland-3/
+      \endverb
+    \endentry
+    \entry{IBM2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+           family={IBM},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{fullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{bibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{sortinit}{I}
+      \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IBM}
+      \field{title}{Pioneering Speech Recognition}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.ibm.com/ibm/history/ibm100/us/en/icons/speechreco/
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/ibm/history/ibm100/us/en/icons/speechreco/
+      \endverb
+    \endentry
+    \entry{Jongejan2016}{online}{}
+      \name{author}{1}{}{%
+        {{hash=779f331a1de4090de89c53c004618c15}{%
+           family={Jongejan},
+           familyi={J\bibinitperiod},
+           given={W.J.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=779f331a1de4090de89c53c004618c15}{%
+           family={Jongejan},
+           familyi={J\bibinitperiod},
+           given={W.J.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{779f331a1de4090de89c53c004618c15}
+      \strng{fullhash}{779f331a1de4090de89c53c004618c15}
+      \strng{bibnamehash}{779f331a1de4090de89c53c004618c15}
+      \strng{authorbibnamehash}{779f331a1de4090de89c53c004618c15}
+      \strng{authornamehash}{779f331a1de4090de89c53c004618c15}
+      \strng{authorfullhash}{779f331a1de4090de89c53c004618c15}
+      \strng{editorbibnamehash}{779f331a1de4090de89c53c004618c15}
+      \strng{editornamehash}{779f331a1de4090de89c53c004618c15}
+      \strng{editorfullhash}{779f331a1de4090de89c53c004618c15}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{15}
+      \field{month}{6}
+      \field{title}{Zora: 15000 euro voor een kwetsbare buiksprekende "zorg"-robot}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.zorgictzorgen.nl/zora-15000-euro-voor-een-kwetsbare-buiksprekende-zorg-robot/
+      \endverb
+      \verb{url}
+      \verb https://www.zorgictzorgen.nl/zora-15000-euro-voor-een-kwetsbare-buiksprekende-zorg-robot/
+      \endverb
+    \endentry
+    \entry{Kincaid2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6279073c2d64d5eb2d07f11a5ee7f92d}{%
+           family={Kincaid},
+           familyi={K\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \strng{fullhash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \strng{bibnamehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \strng{authorbibnamehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \strng{authornamehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \strng{authorfullhash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medium}
+      \field{month}{7}
+      \field{title}{A Brief History of ASR: Automatic Speech Recognition}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://medium.com/descript/a-brief-history-of-asr-automatic-speech-recognition-b8f338d4c0e5
+      \endverb
+      \verb{url}
+      \verb https://medium.com/descript/a-brief-history-of-asr-automatic-speech-recognition-b8f338d4c0e5
+      \endverb
+    \endentry
+    \entry{Lopez2018}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=d65d8574ead2fd93e99aaaf10e441a5c}{%
+           family={López},
+           familyi={L\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b46ad3b48ab26032f0e648c058a3b848}{%
+           family={Quesada},
+           familyi={Q\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=4ab9fd77d8891e940d094084f6fa7e19}{%
+           family={Guerrero},
+           familyi={G\bibinitperiod},
+           given={Luis\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Costa Rica}%
+      }
+      \strng{namehash}{12331f252328e0684a9d085e87bee936}
+      \strng{fullhash}{12331f252328e0684a9d085e87bee936}
+      \strng{bibnamehash}{12331f252328e0684a9d085e87bee936}
+      \strng{authorbibnamehash}{12331f252328e0684a9d085e87bee936}
+      \strng{authornamehash}{12331f252328e0684a9d085e87bee936}
+      \strng{authorfullhash}{12331f252328e0684a9d085e87bee936}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Applied Human Factors and Ergonomics}
+      \field{title}{Alexa vs. Siri vs. Cortana vs. Google Assistant: A Comparison of Speech-based Natural User Interfaces}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/318161646_Alexa_vs_Siri_vs_Cortana_vs_Google_Assistant_A_Comparison_of_Speech-Based_Natural_User_Interfaces
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/318161646_Alexa_vs_Siri_vs_Cortana_vs_Google_Assistant_A_Comparison_of_Speech-Based_Natural_User_Interfaces
+      \endverb
+    \endentry
+    \entry{Markoff2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1a63fd2203a28037a4d9b533c4fdd8db}{%
+           family={Markoff},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \strng{fullhash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \strng{bibnamehash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \strng{authorbibnamehash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \strng{authornamehash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \strng{authorfullhash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New York Times}
+      \field{title}{Computer Wins on ‘Jeopardy!’: Trivial, It’s Not}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html
+      \endverb
+      \verb{url}
+      \verb https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html
+      \endverb
+    \endentry
+    \entry{Passies2018}{online}{}
+      \name{author}{1}{}{%
+        {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
+           family={Passies},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
+           family={Passies},
+           familyi={P\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{fullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{bibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authorbibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authornamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{authorfullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editorbibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editornamehash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \strng{editorfullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{month}{7}
+      \field{title}{De voice assistant: dit is je nieuwe beste vriend}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.frankwatching.com/archive/2018/07/27/de-voice-assistant-dit-is-je-nieuwe-beste-vriend/
+      \endverb
+      \verb{url}
+      \verb https://www.frankwatching.com/archive/2018/07/27/de-voice-assistant-dit-is-je-nieuwe-beste-vriend/
+      \endverb
+    \endentry
+    \entry{Pinola2011}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b93d688746f7544f113cf06735682459}{%
+           family={Pinola},
+           familyi={P\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b93d688746f7544f113cf06735682459}
+      \strng{fullhash}{b93d688746f7544f113cf06735682459}
+      \strng{bibnamehash}{b93d688746f7544f113cf06735682459}
+      \strng{authorbibnamehash}{b93d688746f7544f113cf06735682459}
+      \strng{authornamehash}{b93d688746f7544f113cf06735682459}
+      \strng{authorfullhash}{b93d688746f7544f113cf06735682459}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{pcworld}
+      \field{month}{11}
+      \field{title}{Speech Recognition Through the Decades: How We Ended Up With Siri}
+      \field{year}{2011}
+      \verb{urlraw}
+      \verb https://www.pcworld.com/article/243060/speech_recognition_through_the_decades_how_we_ended_up_with_siri.html
+      \endverb
+      \verb{url}
+      \verb https://www.pcworld.com/article/243060/speech_recognition_through_the_decades_how_we_ended_up_with_siri.html
+      \endverb
+    \endentry
+    \entry{Puri1998}{article}{}
+      \name{author}{1}{}{%
+        {{hash=48bf3f65951f32967665b1412f8fdb6f}{%
+           family={Puri},
+           familyi={P\bibinitperiod},
+           given={Shaifali},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{48bf3f65951f32967665b1412f8fdb6f}
+      \strng{fullhash}{48bf3f65951f32967665b1412f8fdb6f}
+      \strng{bibnamehash}{48bf3f65951f32967665b1412f8fdb6f}
+      \strng{authorbibnamehash}{48bf3f65951f32967665b1412f8fdb6f}
+      \strng{authornamehash}{48bf3f65951f32967665b1412f8fdb6f}
+      \strng{authorfullhash}{48bf3f65951f32967665b1412f8fdb6f}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fortune magazine}
+      \field{title}{Dragon Systems SPEECH-RECOGNITION SOFTWARE}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm
+      \endverb
+      \verb{url}
+      \verb http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm
+      \endverb
+    \endentry
+    \entry{Rouse2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d6ebb0634de22e70618460d3fc936297}{%
+           family={Rouse},
+           familyi={R\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+        {{hash=04cc542d31ee943a5797063363a1f535}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{d34a257663a9be6928f15b9912332864}
+      \strng{fullhash}{d34a257663a9be6928f15b9912332864}
+      \strng{bibnamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authorbibnamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authornamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authorfullhash}{d34a257663a9be6928f15b9912332864}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TechTarget}
+      \field{title}{natural language processing (NLP)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
+      \endverb
+      \verb{url}
+      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
+      \endverb
+    \endentry
+    \entry{Rouse2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d6ebb0634de22e70618460d3fc936297}{%
+           family={Rouse},
+           familyi={R\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5da07083cd4c6ef3b9ef24b443099731}{%
+           family={Kiwak},
+           familyi={K\bibinitperiod},
+           given={Karolina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \strng{fullhash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \strng{bibnamehash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \strng{authorbibnamehash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \strng{authornamehash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \strng{authorfullhash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TechTarget}
+      \field{month}{12}
+      \field{title}{Speech recognition}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://searchcustomerexperience.techtarget.com/definition/speech-recognition
+      \endverb
+      \verb{url}
+      \verb https://searchcustomerexperience.techtarget.com/definition/speech-recognition
+      \endverb
+    \endentry
+    \entry{Schueler2018}{online}{}
+      \name{author}{2}{}{%
+        {{hash=b4e8ddb246037b310129dc16d86ea65c}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8cf4eea3f000852cec47d9acbddd9c80}{%
+           family={Wel},
+           familyi={W\bibinitperiod},
+           given={Pauline},
+           giveni={P\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b4e8ddb246037b310129dc16d86ea65c}{%
+           family={Schueler},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8cf4eea3f000852cec47d9acbddd9c80}{%
+           family={Wel},
+           familyi={W\bibinitperiod},
+           given={Pauline},
+           giveni={P\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{fullhash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{bibnamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{authorbibnamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{authornamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{authorfullhash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{editorbibnamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{editornamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \strng{editorfullhash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{6}
+      \field{title}{The future of voice assistants in the Netherlands}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/the_future_of_voice_assistants_in_the_netherlands_v0.3_mg_0.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/the_future_of_voice_assistants_in_the_netherlands_v0.3_mg_0.pdf
+      \endverb
+    \endentry
+    \entry{Seijas2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b3625d88a15019e35aa14bf6f585a7aa}{%
+           family={Seijas},
+           familyi={S\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{fullhash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{bibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authorbibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authornamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authorfullhash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Becoming Human / Medium}
+      \field{title}{Into a better Speech Synthesis Technology}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
+      \endverb
+      \verb{url}
+      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
+      \endverb
+    \endentry
+    \entry{Stil2016}{report}{}
+      \name{author}{3}{}{%
+        {{hash=dadd01969b9a2e5749fd22859353ca12}{%
+           family={Stil},
+           familyi={S\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0ad549d6facf00f56c5dd7e4bff14c31}{%
+           family={Belleng�},
+           familyi={B\bibinitperiod},
+           given={Nino},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3070cf27c45abd81473b9fa70fe11851}{%
+           family={Snoeren},
+           familyi={S\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {VitaValley}%
+      }
+      \strng{namehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{fullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{bibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authorbibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authornamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authorfullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{3}
+      \field{title}{De werkzame principes van Blended Care in het sociaal domein}
+      \field{type}{resreport}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+    \endentry
+    \entry{Taalunie2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=672f7397801780dc1e99b7d92f5993cf}{%
+           family={Taalunie},
+           familyi={T\bibinitperiod},
+           given={Nederlandse},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{672f7397801780dc1e99b7d92f5993cf}
+      \strng{fullhash}{672f7397801780dc1e99b7d92f5993cf}
+      \strng{bibnamehash}{672f7397801780dc1e99b7d92f5993cf}
+      \strng{authorbibnamehash}{672f7397801780dc1e99b7d92f5993cf}
+      \strng{authornamehash}{672f7397801780dc1e99b7d92f5993cf}
+      \strng{authorfullhash}{672f7397801780dc1e99b7d92f5993cf}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nederlandse Taalunie}
+      \field{month}{6}
+      \field{title}{Nederlands in nieuwe technologieën en toepassingen}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb http://taalunieversum.org/inhoud/taal-en-spraaktechnologie
+      \endverb
+      \verb{url}
+      \verb http://taalunieversum.org/inhoud/taal-en-spraaktechnologie
+      \endverb
+    \endentry
+    \entry{Tulshan2019}{report}{}
+      \name{author}{2}{}{%
+        {{hash=ca1f963e1a540745c0ed634812035959}{%
+           family={Tulshan},
+           familyi={T\bibinitperiod},
+           given={Amrita\bibnamedelima Sunil},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3c79e2e50ec5c63e7747f7a63e1548ca}{%
+           family={Dhage},
+           familyi={D\bibinitperiod},
+           given={Sudhir\bibnamedelima Namdeorao},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Sardar Patel Institute of Technology}%
+      }
+      \strng{namehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \strng{fullhash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \strng{bibnamehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \strng{authorbibnamehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \strng{authornamehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \strng{authorfullhash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Survey on Virtual Assistant: Google Assistant, Siri, Cortana, Alexa}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/330165159_Survey_on_Virtual_Assistant_Google_Assistant_Siri_Cortana_Alexa_4th_International_Symposium_SIRS_2018_Bangalore_India_September_19-22_2018_Revised_Selected_Papers
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/330165159_Survey_on_Virtual_Assistant_Google_Assistant_Siri_Cortana_Alexa_4th_International_Symposium_SIRS_2018_Bangalore_India_September_19-22_2018_Revised_Selected_Papers
+      \endverb
+    \endentry
+    \entry{Vervoort2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2f83c85d7971841d161a0d94a2f7ddca}{%
+           family={Vervoort},
+           familyi={V\bibinitperiod},
+           given={Dorien},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \strng{fullhash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \strng{bibnamehash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \strng{authorbibnamehash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \strng{authornamehash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \strng{authorfullhash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Techpulse}
+      \field{title}{Hoe werkt spraakherkenning?}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.techpulse.be/achtergrond/218906/hoe-werkt-spraakherkenningstechnologie/
+      \endverb
+      \verb{url}
+      \verb https://www.techpulse.be/achtergrond/218906/hoe-werkt-spraakherkenningstechnologie/
+      \endverb
+    \endentry
+    \entry{Vives}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9844b687bbccb141ba9b6a444f492911}{%
+           family={Vives},
+           familyi={V\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9844b687bbccb141ba9b6a444f492911}{%
+           family={Vives},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{fullhash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{bibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authorbibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authornamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{authorfullhash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editorbibnamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editornamehash}{9844b687bbccb141ba9b6a444f492911}
+      \strng{editorfullhash}{9844b687bbccb141ba9b6a444f492911}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Zorglab: Interprofessioneel Centrum Zorgtechnologie}
+      \verb{urlraw}
+      \verb https://www.vives.be/nl/labs/zorglab
+      \endverb
+      \verb{url}
+      \verb https://www.vives.be/nl/labs/zorglab
+      \endverb
+    \endentry
+    \entry{Vox-Creative2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=4a0a2e02bf6c0c181b6a4f2c249e97ac}{%
+           family={Vox-Creative},
+           familyi={V\bibinithyphendelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \strng{fullhash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \strng{bibnamehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \strng{authorbibnamehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \strng{authornamehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \strng{authorfullhash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Verge}
+      \field{title}{A Brief History Of Voice Assistants}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.theverge.com/ad/17855294/a-brief-history-of-voice-assistants
+      \endverb
+      \verb{url}
+      \verb https://www.theverge.com/ad/17855294/a-brief-history-of-voice-assistants
+      \endverb
+    \endentry
+    \entry{Wentzel2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=65a18b3e0bbfff08ab21a147defce0aa}{%
+           family={Wentzel},
+           familyi={W\bibinitperiod},
+           given={Jobke},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b5fba294420a07e27768bffde1d4c326}{%
+           family={Vaart},
+           familyi={V\bibinitperiod},
+           given={Rosalie},
+           giveni={R\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=fe28e5291e459f3b246d167f3f1cba06}{%
+           family={T\bibnamedelima Bohlmeijer},
+           familyi={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Ernst},
+           giveni={E\bibinitperiod}}}%
+        {{hash=707d0f8de02e47e4401a04ffb2a8f925}{%
+           family={Gemert-Pijnen},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Jul},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{fullhash}{cdc1b25cfa1c86b58c73c2f3dbbac539}
+      \strng{bibnamehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{authorbibnamehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{authornamehash}{0c348ecdcf611b336797efdcb2627254}
+      \strng{authorfullhash}{cdc1b25cfa1c86b58c73c2f3dbbac539}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{9}
+      \field{journaltitle}{JMIR Mental Health}
+      \field{month}{2}
+      \field{title}{Mixing Online and Face-to-Face Therapy: How to Benefit From Blended Care in Mental Health Care}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764785/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764785/
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{Woodford 2019}
+\endrefsection
+\endinput
+

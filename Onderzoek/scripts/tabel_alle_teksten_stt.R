@@ -6,5 +6,3 @@ names(texttable)[3] <- "alexa burn"
 names(texttable)[4] <- "ga burn"
 names(texttable)[5] <- "alexa backache"
 names(texttable)[6] <- "ga backache"
-library(formattable)
-formattable(texttable)
