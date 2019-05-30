@@ -21,13 +21,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Spraaksynthese}{18}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Spraakassistenten}{19}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Spraakassistenten}{20}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}De geschiedenis van spraakassistenten}{20}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Jaren 50 - 60}{20}{section*.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Jaren 70 - 80}{21}{section*.7}% 
+\contentsline {subsubsection}{Jaren 70 - 80}{20}{section*.7}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{Jaren 90}{21}{section*.8}% 
 \defcounter {refsection}{0}\relax 
@@ -47,133 +47,119 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}De keuze van de spraakassistenten}{27}{section.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Wat wordt er vergeleken}{27}{section.3.2}% 
+\contentsline {section}{\numberline {3.2}Wat wordt er vergeleken}{28}{section.3.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Gebruikte materialen}{28}{section.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Het verloop van het onderzoek}{28}{section.3.4}% 
+\contentsline {section}{\numberline {3.4}Het verloop van het onderzoek}{29}{section.3.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.1}Deel één: met de deelnemer}{28}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.1}Deel één: met de deelnemer}{29}{subsection.3.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.2}Deel twee: zonder de deelnemer}{29}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.4.2}Deel twee: zonder de deelnemer}{30}{subsection.3.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4.3}Ontwikkelen van een applicatie}{30}{subsection.3.4.3}% 
+\contentsline {section}{\numberline {3.5}Orthopedagogisch onderzoek}{31}{section.3.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.5}Orthopedagogisch onderzoek}{30}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}De zoektocht naar een gepaste doelgroep}{31}{subsection.3.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.5.1}De zoektocht naar een gepaste doelgroep}{30}{subsection.3.5.1}% 
+\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{31}{section*.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van de begeleider in de jeugdzorg}{30}{section*.10}% 
+\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{32}{section*.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Ondersteuning van personen met het syndroom van Down}{31}{section*.11}% 
+\contentsline {chapter}{\numberline {4}Resultaten vergelijkend onderzoek}{37}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Resultaten vergelijkend onderzoek}{35}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Vergelijking van de assistenten in spraakkwaliteit}{37}{section.4.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}Vergelijking van de assistenten in spraakkwaliteit}{35}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Vergelijking van de assistenten per eigenschap}{37}{subsection.4.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.1}Vergelijking van de assistenten per eigenschap}{35}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Vergelijking van de eigenschappen per assistent}{38}{subsection.4.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.1.2}Vergelijking van de eigenschappen per assistent}{35}{subsection.4.1.2}% 
+\contentsline {section}{\numberline {4.2}Vergelijking van de assistenten in spraakherkenning}{39}{section.4.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Vergelijking van de assistenten in spraakherkenning}{36}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Een moeilijk te voeren onderzoek}{39}{subsection.4.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Een moeilijk te voeren onderzoek}{36}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}De gevormde zinnen}{41}{subsection.4.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}De eerste hulp assistent}{41}{chapter.5}% 
+\contentsline {chapter}{\numberline {5}De eerste hulp assistent}{47}{chapter.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}De functionaliteiten}{41}{section.5.1}% 
+\contentsline {section}{\numberline {5.1}De functionaliteiten}{47}{section.5.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Persona}{41}{section.5.2}% 
+\contentsline {section}{\numberline {5.2}Persona}{47}{section.5.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Conclusie}{43}{chapter.6}% 
+\contentsline {chapter}{\numberline {6}Conclusie}{49}{chapter.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{45}{appendix.A}% 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{51}{appendix.A}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{45}{section.A.1}% 
+\contentsline {section}{\numberline {A.1}Introductie}{51}{section.A.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{46}{section.A.2}% 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{52}{section.A.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{47}{section.A.3}% 
+\contentsline {section}{\numberline {A.3}Methodologie}{53}{section.A.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{47}{section.A.4}% 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{53}{section.A.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{48}{section.A.5}% 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{54}{section.A.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {B}Stappenplan proefafname}{49}{appendix.B}% 
+\contentsline {chapter}{\numberline {B}Stappenplan analyse}{55}{appendix.B}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.1}Deel 1}{49}{section.B.1}% 
+\contentsline {section}{\numberline {B.1}De spraaksynthese van de assistenten}{55}{section.B.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.2}Deel 2}{49}{section.B.2}% 
+\contentsline {subsection}{\numberline {B.1.1}Inlezen van csv-file}{55}{subsection.B.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.3}Deel 3}{50}{section.B.3}% 
+\contentsline {subsection}{\numberline {B.1.2}Installeren van de nodige packages}{55}{subsection.B.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.4}Deel 4}{50}{section.B.4}% 
+\contentsline {subsection}{\numberline {B.1.3}Voorbereiden van de data}{55}{subsection.B.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.5}Deel 5}{50}{section.B.5}% 
+\contentsline {subsection}{\numberline {B.1.4}Leeftijd van de deelnemers}{56}{subsection.B.1.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B.6}Deel 6}{51}{section.B.6}% 
+\contentsline {subsection}{\numberline {B.1.5}Vergelijking van de assistenten per eigenschap}{56}{subsection.B.1.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {C}Stappenplan analyse}{53}{appendix.C}% 
+\contentsline {subsubsection}{Boxplot van alle scores t.o.v. de assistenten}{56}{section*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {C.1}De spraaksynthese van de assistenten}{53}{section.C.1}% 
+\contentsline {subsubsection}{Boxplots van de scores per eigenschap van de assistenten}{56}{section*.13}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.1}Inlezen van csv-file}{53}{subsection.C.1.1}% 
+\contentsline {paragraph}{Verstaanbaarheid}{56}{section*.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.2}Installeren van de nodige packages}{53}{subsection.C.1.2}% 
+\contentsline {paragraph}{Menselijkheid}{56}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.3}Voorbereiden van de data}{53}{subsection.C.1.3}% 
+\contentsline {paragraph}{Levendigheid}{56}{section*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.4}Leeftijd van de deelnemers}{54}{subsection.C.1.4}% 
+\contentsline {paragraph}{Tempo}{56}{section*.17}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.5}Vergelijking van de assistenten per eigenschap}{54}{subsection.C.1.5}% 
+\contentsline {paragraph}{Emotionaliteit}{57}{section*.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Boxplot van alle scores t.o.v. de assistenten}{54}{section*.12}% 
+\contentsline {subsubsection}{Barplots van de scores per eigenschap van de assistenten}{57}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Boxplots van de scores per eigenschap van de assistenten}{54}{section*.13}% 
+\contentsline {paragraph}{Verstaanbaarheid}{57}{section*.20}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Verstaanbaarheid}{54}{section*.14}% 
+\contentsline {paragraph}{Menselijkheid}{57}{section*.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Menselijkheid}{54}{section*.15}% 
+\contentsline {paragraph}{Levendigheid}{57}{section*.22}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Levendigheid}{54}{section*.16}% 
+\contentsline {paragraph}{Tempo}{57}{section*.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Tempo}{54}{section*.17}% 
+\contentsline {paragraph}{Emotionaliteit}{57}{section*.24}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Emotionaliteit}{55}{section*.18}% 
+\contentsline {subsection}{\numberline {B.1.6}Vergelijking van de eigenschappen per assistent}{58}{subsection.B.1.6}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Barplots van de scores per eigenschap van de assistenten}{55}{section*.19}% 
+\contentsline {subsubsection}{Boxplots van de scores per eigenschap voor één assistent}{58}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Verstaanbaarheid}{55}{section*.20}% 
+\contentsline {paragraph}{Alexa}{58}{section*.26}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Menselijkheid}{55}{section*.21}% 
+\contentsline {paragraph}{Google Assistant}{58}{section*.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Levendigheid}{55}{section*.22}% 
+\contentsline {paragraph}{Google Assistant NL}{58}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Tempo}{55}{section*.23}% 
+\contentsline {subsection}{\numberline {B.1.7}De gemiddelde score en standaardafwijking van alle eigenschappen per assistent gesorteerd van hoog naar laag}{58}{subsection.B.1.7}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Emotionaliteit}{55}{section*.24}% 
+\contentsline {subsubsection}{t.testen}{58}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.6}Vergelijking van de eigenschappen per assistent}{56}{subsection.C.1.6}% 
+\contentsline {section}{\numberline {B.2}De spraakherkenning van de assistenten}{59}{section.B.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{Boxplots van de scores per eigenschap voor één assistent}{56}{section*.25}% 
+\contentsline {subsection}{\numberline {B.2.1}Inlezen van csv-file}{59}{subsection.B.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Alexa}{56}{section*.26}% 
+\contentsline {subsection}{\numberline {B.2.2}Voorbereiden van de data}{59}{subsection.B.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Google Assistant}{56}{section*.27}% 
+\contentsline {subsection}{\numberline {B.2.3}Een overzicht van de gevormde tekst}{59}{subsection.B.2.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Google Assistant NL}{56}{section*.28}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.1.7}De gemiddelde score en standaardafwijking van alle eigenschappen per assistent gesorteerd van hoog naar laag}{56}{subsection.C.1.7}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{t.testen}{56}{section*.29}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {C.2}De spraakherkenning van de assistenten}{57}{section.C.2}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.2.1}Inlezen van csv-file}{57}{subsection.C.2.1}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.2.2}Voorbereiden van de data}{57}{subsection.C.2.2}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {C.2.3}Een overzicht van de gevormde tekst}{57}{subsection.C.2.3}% 
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{59}{appendix*.30}% 
+\contentsline {chapter}{Bibliografie}{61}{appendix*.30}% 
 \contentsfinish 
