@@ -1,5 +1,0 @@
-bpVerstaanbaarheid <- table(verstaanbaarheid$assistant, verstaanbaarheid$score)
-bpMenselijkheid <- table(menselijkheid$assistant, menselijkheid$score)
-bpLevendigheid <- table(levendigheid$assistant, levendigheid$score)
-bpTempo <- table(tempo$assistant, tempo$score)
-bpEmotionaliteit <- table(emotionaliteit$assistant, emotionaliteit$score)
