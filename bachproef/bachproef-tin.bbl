@@ -18,14 +18,15 @@
 
 
 \refsection{0}
-  \datalist[entry]{nty/global//global/global}
+  \datalist[entry]{anyt/global//global/global}
     \entry{Belghmidi2019a}{article}{}
       \name{author}{1}{}{%
-        {{hash=cd444e33946dd3f0c327b17fa56ee01b}{%
+        {{uniquename=0,uniquepart=base,hash=cd444e33946dd3f0c327b17fa56ee01b}{%
            family={Belghmidi},
            familyi={B\bibinitperiod},
            given={Loutfi},
-           giveni={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{fullhash}{cd444e33946dd3f0c327b17fa56ee01b}
@@ -34,8 +35,13 @@
       \strng{authornamehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{authorfullhash}{cd444e33946dd3f0c327b17fa56ee01b}
       \field{extraname}{1}
+      \field{labelalpha}{Bel19}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{extraalpha}{1}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{VRT NWS}
@@ -50,11 +56,12 @@
     \endentry
     \entry{Belghmidi2019}{article}{}
       \name{author}{1}{}{%
-        {{hash=cd444e33946dd3f0c327b17fa56ee01b}{%
+        {{uniquename=0,uniquepart=base,hash=cd444e33946dd3f0c327b17fa56ee01b}{%
            family={Belghmidi},
            familyi={B\bibinitperiod},
            given={Loutfi},
-           giveni={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{fullhash}{cd444e33946dd3f0c327b17fa56ee01b}
@@ -63,8 +70,13 @@
       \strng{authornamehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{authorfullhash}{cd444e33946dd3f0c327b17fa56ee01b}
       \field{extraname}{2}
+      \field{labelalpha}{Bel19}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{extraalpha}{2}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{VRT NWS}
@@ -79,11 +91,12 @@
     \endentry
     \entry{Brandt2018}{article}{}
       \name{author}{1}{}{%
-        {{hash=8f446df95f218349f7451fb6e12f8ddf}{%
+        {{uniquename=0,uniquepart=base,hash=8f446df95f218349f7451fb6e12f8ddf}{%
            family={Brandt},
            familyi={B\bibinitperiod},
            given={Mathias},
-           giveni={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{8f446df95f218349f7451fb6e12f8ddf}
       \strng{fullhash}{8f446df95f218349f7451fb6e12f8ddf}
@@ -91,8 +104,11 @@
       \strng{authorbibnamehash}{8f446df95f218349f7451fb6e12f8ddf}
       \strng{authornamehash}{8f446df95f218349f7451fb6e12f8ddf}
       \strng{authorfullhash}{8f446df95f218349f7451fb6e12f8ddf}
+      \field{labelalpha}{Bra18}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Statista}
@@ -108,36 +124,42 @@
     \endentry
     \entry{Buysse}{unpublished}{}
       \name{author}{6}{}{%
-        {{hash=850cdcb002e6c110ccfeff9e575104d5}{%
+        {{uniquename=0,uniquepart=base,hash=850cdcb002e6c110ccfeff9e575104d5}{%
            family={Buysse},
            familyi={B\bibinitperiod},
            given={Jens},
-           giveni={J\bibinitperiod}}}%
-        {{hash=91ce18c74e9b5391cb3fd85c3eb56f3a}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=91ce18c74e9b5391cb3fd85c3eb56f3a}{%
            family={Storme},
            familyi={S\bibinitperiod},
            given={Iris},
-           giveni={I\bibinitperiod}}}%
-        {{hash=8ecdab00ba3d9386ca1dac5a157c67ce}{%
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8ecdab00ba3d9386ca1dac5a157c67ce}{%
            family={Gesquiere},
            familyi={G\bibinitperiod},
            given={Mieke},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a5f4c607b4b8f359ee58618a34dd22b0}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a5f4c607b4b8f359ee58618a34dd22b0}{%
            family={Samyn},
            familyi={S\bibinitperiod},
            given={Karine},
-           giveni={K\bibinitperiod}}}%
-        {{hash=a934e4f3e246d5898c528a054758d233}{%
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a934e4f3e246d5898c528a054758d233}{%
            family={Weirdt},
            familyi={W\bibinitperiod},
            given={Harm\bibnamedelima De},
-           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=757f2135b729463f09b9bc20f6c64b5a}{%
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=757f2135b729463f09b9bc20f6c64b5a}{%
            family={Belis},
            familyi={B\bibinitperiod},
            given={Matthea},
-           giveni={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b31e03860a2d54985eccfef40414090a}
       \strng{fullhash}{1e7fe6ee9957a70538e4fb7c17a400a5}
@@ -145,8 +167,10 @@
       \strng{authorbibnamehash}{b31e03860a2d54985eccfef40414090a}
       \strng{authornamehash}{b31e03860a2d54985eccfef40414090a}
       \strng{authorfullhash}{1e7fe6ee9957a70538e4fb7c17a400a5}
+      \field{labelalpha}{Buy+}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{In Progress}
@@ -160,7 +184,7 @@
     \endentry
     \entry{Datanews2012}{online}{}
       \name{editor}{1}{}{%
-        {{hash=4d3930d324a4596ae34215bc84fff7c4}{%
+        {{uniquename=0,uniquepart=base,hash=4d3930d324a4596ae34215bc84fff7c4}{%
            family={Datanews},
            familyi={D\bibinitperiod}}}%
       }
@@ -170,8 +194,11 @@
       \strng{editorbibnamehash}{4d3930d324a4596ae34215bc84fff7c4}
       \strng{editornamehash}{4d3930d324a4596ae34215bc84fff7c4}
       \strng{editorfullhash}{4d3930d324a4596ae34215bc84fff7c4}
+      \field{labelalpha}{Dat12}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{editor}
       \field{labeltitlesource}{title}
       \field{day}{22}
@@ -188,11 +215,12 @@
     \endentry
     \entry{Decroubele2019}{article}{}
       \name{author}{1}{}{%
-        {{hash=b223bcad052325a53ac2ca24eaf2ed65}{%
+        {{uniquename=0,uniquepart=base,hash=b223bcad052325a53ac2ca24eaf2ed65}{%
            family={Decroubele},
            familyi={D\bibinitperiod},
            given={Peter},
-           giveni={P\bibinitperiod}}}%
+           giveni={P\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b223bcad052325a53ac2ca24eaf2ed65}
       \strng{fullhash}{b223bcad052325a53ac2ca24eaf2ed65}
@@ -200,8 +228,11 @@
       \strng{authorbibnamehash}{b223bcad052325a53ac2ca24eaf2ed65}
       \strng{authornamehash}{b223bcad052325a53ac2ca24eaf2ed65}
       \strng{authorfullhash}{b223bcad052325a53ac2ca24eaf2ed65}
+      \field{labelalpha}{Dec19}
       \field{sortinit}{D}
       \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{VRT NWS}
@@ -217,11 +248,12 @@
     \endentry
     \entry{Garbade2018}{article}{}
       \name{author}{1}{}{%
-        {{hash=ffdf90f2f8e10c95f7b861c1b75660ea}{%
+        {{uniquename=0,uniquepart=base,hash=ffdf90f2f8e10c95f7b861c1b75660ea}{%
            family={Garbade},
            familyi={G\bibinitperiod},
            given={Michael\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
       \strng{fullhash}{ffdf90f2f8e10c95f7b861c1b75660ea}
@@ -229,8 +261,11 @@
       \strng{authorbibnamehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
       \strng{authornamehash}{ffdf90f2f8e10c95f7b861c1b75660ea}
       \strng{authorfullhash}{ffdf90f2f8e10c95f7b861c1b75660ea}
+      \field{labelalpha}{Gar18}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Becoming Human / Medium}
@@ -245,11 +280,12 @@
     \endentry
     \entry{Geitgey2016}{article}{}
       \name{author}{1}{}{%
-        {{hash=b0efc5d7ce8a53d119c0a4ccac233bda}{%
+        {{uniquename=0,uniquepart=base,hash=b0efc5d7ce8a53d119c0a4ccac233bda}{%
            family={Geitgey},
            familyi={G\bibinitperiod},
            given={Adam},
-           giveni={A\bibinitperiod}}}%
+           giveni={A\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
       \strng{fullhash}{b0efc5d7ce8a53d119c0a4ccac233bda}
@@ -257,8 +293,11 @@
       \strng{authorbibnamehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
       \strng{authornamehash}{b0efc5d7ce8a53d119c0a4ccac233bda}
       \strng{authorfullhash}{b0efc5d7ce8a53d119c0a4ccac233bda}
+      \field{labelalpha}{Gei16}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Medium}
@@ -271,13 +310,43 @@
       \verb https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a
       \endverb
     \endentry
+    \entry{Gezondheidbe2018}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=169c052395571e014fab26e4925b4444}{%
+           family={Gezondheid.be},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{169c052395571e014fab26e4925b4444}
+      \strng{fullhash}{169c052395571e014fab26e4925b4444}
+      \strng{bibnamehash}{169c052395571e014fab26e4925b4444}
+      \strng{authorbibnamehash}{169c052395571e014fab26e4925b4444}
+      \strng{authornamehash}{169c052395571e014fab26e4925b4444}
+      \strng{authorfullhash}{169c052395571e014fab26e4925b4444}
+      \field{labelalpha}{Gez18}
+      \field{sortinit}{G}
+      \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Gezondheidbe}
+      \field{title}{Hoe herkent u een hartstilstand?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=26308
+      \endverb
+      \verb{url}
+      \verb https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=26308
+      \endverb
+    \endentry
     \entry{Grypdonck2015}{online}{}
       \name{author}{1}{}{%
-        {{hash=e61cd51854fba82d76d33045638143e4}{%
+        {{uniquename=0,uniquepart=base,hash=e61cd51854fba82d76d33045638143e4}{%
            family={Grypdonck},
            familyi={G\bibinitperiod},
            given={Mieke},
-           giveni={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{1}{}{%
         {{hash=e61cd51854fba82d76d33045638143e4}{%
@@ -295,8 +364,11 @@
       \strng{editorbibnamehash}{e61cd51854fba82d76d33045638143e4}
       \strng{editornamehash}{e61cd51854fba82d76d33045638143e4}
       \strng{editorfullhash}{e61cd51854fba82d76d33045638143e4}
+      \field{labelalpha}{Gry15}
       \field{sortinit}{G}
       \field{sortinithash}{5e8d2bf9d38de41b1528bd307546008f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{29}
@@ -313,11 +385,12 @@
     \endentry
     \entry{Haenen2018}{online}{}
       \name{author}{1}{}{%
-        {{hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
+        {{uniquename=0,uniquepart=base,hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
            family={Haenen},
            familyi={H\bibinitperiod},
            given={Thomas},
-           giveni={T\bibinitperiod}}}%
+           giveni={T\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{1}{}{%
         {{hash=bf88f55bea47fe89f8161b216e4ea1ea}{%
@@ -335,8 +408,11 @@
       \strng{editorbibnamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
       \strng{editornamehash}{bf88f55bea47fe89f8161b216e4ea1ea}
       \strng{editorfullhash}{bf88f55bea47fe89f8161b216e4ea1ea}
+      \field{labelalpha}{Hae18}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{9}
@@ -353,11 +429,12 @@
     \endentry
     \entry{Hamers2019}{article}{}
       \name{author}{1}{}{%
-        {{hash=f24f60286a31ac9d3b7a8ff137576eb8}{%
+        {{uniquename=0,uniquepart=base,hash=f24f60286a31ac9d3b7a8ff137576eb8}{%
            family={Hamers},
            familyi={H\bibinitperiod},
            given={J.},
-           giveni={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{f24f60286a31ac9d3b7a8ff137576eb8}
       \strng{fullhash}{f24f60286a31ac9d3b7a8ff137576eb8}
@@ -365,8 +442,11 @@
       \strng{authorbibnamehash}{f24f60286a31ac9d3b7a8ff137576eb8}
       \strng{authornamehash}{f24f60286a31ac9d3b7a8ff137576eb8}
       \strng{authorfullhash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \field{labelalpha}{Ham19}
       \field{sortinit}{H}
       \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Metro}
@@ -375,7 +455,7 @@
     \endentry
     \entry{IBM2011}{article}{}
       \name{author}{1}{}{%
-        {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
+        {{uniquename=0,uniquepart=base,hash=cbf44511d041dc6d1dd73cc0c033122c}{%
            family={IBM},
            familyi={I\bibinitperiod}}}%
       }
@@ -385,8 +465,11 @@
       \strng{authorbibnamehash}{cbf44511d041dc6d1dd73cc0c033122c}
       \strng{authornamehash}{cbf44511d041dc6d1dd73cc0c033122c}
       \strng{authorfullhash}{cbf44511d041dc6d1dd73cc0c033122c}
+      \field{labelalpha}{IBM11}
       \field{sortinit}{I}
       \field{sortinithash}{320bc8fe8101b9376f9f21cd507de0e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IBM}
@@ -401,11 +484,12 @@
     \endentry
     \entry{Jongejan2016}{online}{}
       \name{author}{1}{}{%
-        {{hash=779f331a1de4090de89c53c004618c15}{%
+        {{uniquename=0,uniquepart=base,hash=779f331a1de4090de89c53c004618c15}{%
            family={Jongejan},
            familyi={J\bibinitperiod},
            given={W.J.},
-           giveni={W\bibinitperiod}}}%
+           giveni={W\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{1}{}{%
         {{hash=779f331a1de4090de89c53c004618c15}{%
@@ -423,8 +507,11 @@
       \strng{editorbibnamehash}{779f331a1de4090de89c53c004618c15}
       \strng{editornamehash}{779f331a1de4090de89c53c004618c15}
       \strng{editorfullhash}{779f331a1de4090de89c53c004618c15}
+      \field{labelalpha}{Jon16}
       \field{sortinit}{J}
       \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{15}
@@ -441,11 +528,12 @@
     \endentry
     \entry{Kincaid2018}{article}{}
       \name{author}{1}{}{%
-        {{hash=6279073c2d64d5eb2d07f11a5ee7f92d}{%
+        {{uniquename=0,uniquepart=base,hash=6279073c2d64d5eb2d07f11a5ee7f92d}{%
            family={Kincaid},
            familyi={K\bibinitperiod},
            given={Jason},
-           giveni={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
       \strng{fullhash}{6279073c2d64d5eb2d07f11a5ee7f92d}
@@ -453,8 +541,11 @@
       \strng{authorbibnamehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
       \strng{authornamehash}{6279073c2d64d5eb2d07f11a5ee7f92d}
       \strng{authorfullhash}{6279073c2d64d5eb2d07f11a5ee7f92d}
+      \field{labelalpha}{Kin18}
       \field{sortinit}{K}
       \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Medium}
@@ -470,21 +561,24 @@
     \endentry
     \entry{Lopez2018}{inproceedings}{}
       \name{author}{3}{}{%
-        {{hash=d65d8574ead2fd93e99aaaf10e441a5c}{%
+        {{uniquename=0,uniquepart=base,hash=d65d8574ead2fd93e99aaaf10e441a5c}{%
            family={López},
            familyi={L\bibinitperiod},
            given={Gustavo},
-           giveni={G\bibinitperiod}}}%
-        {{hash=b46ad3b48ab26032f0e648c058a3b848}{%
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b46ad3b48ab26032f0e648c058a3b848}{%
            family={Quesada},
            familyi={Q\bibinitperiod},
            given={Luis},
-           giveni={L\bibinitperiod}}}%
-        {{hash=4ab9fd77d8891e940d094084f6fa7e19}{%
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4ab9fd77d8891e940d094084f6fa7e19}{%
            family={Guerrero},
            familyi={G\bibinitperiod},
            given={Luis\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {University of Costa Rica}%
@@ -495,8 +589,11 @@
       \strng{authorbibnamehash}{12331f252328e0684a9d085e87bee936}
       \strng{authornamehash}{12331f252328e0684a9d085e87bee936}
       \strng{authorfullhash}{12331f252328e0684a9d085e87bee936}
+      \field{labelalpha}{LQG18}
       \field{sortinit}{L}
       \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{International Conference on Applied Human Factors and Ergonomics}
@@ -511,11 +608,12 @@
     \endentry
     \entry{Markoff2011}{article}{}
       \name{author}{1}{}{%
-        {{hash=1a63fd2203a28037a4d9b533c4fdd8db}{%
+        {{uniquename=0,uniquepart=base,hash=1a63fd2203a28037a4d9b533c4fdd8db}{%
            family={Markoff},
            familyi={M\bibinitperiod},
            given={John},
-           giveni={J\bibinitperiod}}}%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{1a63fd2203a28037a4d9b533c4fdd8db}
       \strng{fullhash}{1a63fd2203a28037a4d9b533c4fdd8db}
@@ -523,8 +621,11 @@
       \strng{authorbibnamehash}{1a63fd2203a28037a4d9b533c4fdd8db}
       \strng{authornamehash}{1a63fd2203a28037a4d9b533c4fdd8db}
       \strng{authorfullhash}{1a63fd2203a28037a4d9b533c4fdd8db}
+      \field{labelalpha}{Mar11}
       \field{sortinit}{M}
       \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{New York Times}
@@ -539,18 +640,21 @@
     \endentry
     \entry{Oord2016}{article}{}
       \name{author}{2}{}{%
-        {{hash=eb4d5c66a32d8ff3f8cb56e4544c1876}{%
+        {{uniquename=0,uniquepart=base,hash=eb4d5c66a32d8ff3f8cb56e4544c1876}{%
            family={Oord},
            familyi={O\bibinitperiod},
            given={Aäron},
            giveni={A\bibinitperiod},
+           givenun=0,
            prefix={van\bibnamedelima den},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=a133b469b21b870786119a47b1b691eb}{%
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=a133b469b21b870786119a47b1b691eb}{%
            family={Dieleman},
            familyi={D\bibinitperiod},
            given={Sander},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b2aa313015f1044bc971ca81178ac06d}
       \strng{fullhash}{b2aa313015f1044bc971ca81178ac06d}
@@ -558,8 +662,11 @@
       \strng{authorbibnamehash}{b2aa313015f1044bc971ca81178ac06d}
       \strng{authornamehash}{b2aa313015f1044bc971ca81178ac06d}
       \strng{authorfullhash}{b2aa313015f1044bc971ca81178ac06d}
+      \field{labelalpha}{OD16}
       \field{sortinit}{O}
       \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Deepmind}
@@ -574,11 +681,12 @@
     \endentry
     \entry{Passies2018}{online}{}
       \name{author}{1}{}{%
-        {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
+        {{uniquename=0,uniquepart=base,hash=6ef91ec5d50068cc85e24fbd731c1862}{%
            family={Passies},
            familyi={P\bibinitperiod},
            given={Linda},
-           giveni={L\bibinitperiod}}}%
+           giveni={L\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{1}{}{%
         {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
@@ -596,8 +704,11 @@
       \strng{editorbibnamehash}{6ef91ec5d50068cc85e24fbd731c1862}
       \strng{editornamehash}{6ef91ec5d50068cc85e24fbd731c1862}
       \strng{editorfullhash}{6ef91ec5d50068cc85e24fbd731c1862}
+      \field{labelalpha}{Pas18}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{27}
@@ -614,11 +725,12 @@
     \endentry
     \entry{Pinola2011}{article}{}
       \name{author}{1}{}{%
-        {{hash=b93d688746f7544f113cf06735682459}{%
+        {{uniquename=0,uniquepart=base,hash=b93d688746f7544f113cf06735682459}{%
            family={Pinola},
            familyi={P\bibinitperiod},
            given={Melanie},
-           giveni={M\bibinitperiod}}}%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b93d688746f7544f113cf06735682459}
       \strng{fullhash}{b93d688746f7544f113cf06735682459}
@@ -626,8 +738,11 @@
       \strng{authorbibnamehash}{b93d688746f7544f113cf06735682459}
       \strng{authornamehash}{b93d688746f7544f113cf06735682459}
       \strng{authorfullhash}{b93d688746f7544f113cf06735682459}
+      \field{labelalpha}{Pin11}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{pcworld}
@@ -643,11 +758,12 @@
     \endentry
     \entry{Puri1998}{article}{}
       \name{author}{1}{}{%
-        {{hash=48bf3f65951f32967665b1412f8fdb6f}{%
+        {{uniquename=0,uniquepart=base,hash=48bf3f65951f32967665b1412f8fdb6f}{%
            family={Puri},
            familyi={P\bibinitperiod},
            given={Shaifali},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{48bf3f65951f32967665b1412f8fdb6f}
       \strng{fullhash}{48bf3f65951f32967665b1412f8fdb6f}
@@ -655,8 +771,11 @@
       \strng{authorbibnamehash}{48bf3f65951f32967665b1412f8fdb6f}
       \strng{authornamehash}{48bf3f65951f32967665b1412f8fdb6f}
       \strng{authorfullhash}{48bf3f65951f32967665b1412f8fdb6f}
+      \field{labelalpha}{Pur98}
       \field{sortinit}{P}
       \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Fortune magazine}
@@ -669,18 +788,58 @@
       \verb http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm
       \endverb
     \endentry
+    \entry{Rouse2017}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=d6ebb0634de22e70618460d3fc936297}{%
+           family={Rouse},
+           familyi={R\bibinitperiod},
+           given={Margaret},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=04cc542d31ee943a5797063363a1f535}{%
+           family={Burns},
+           familyi={B\bibinitperiod},
+           given={Ed},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d34a257663a9be6928f15b9912332864}
+      \strng{fullhash}{d34a257663a9be6928f15b9912332864}
+      \strng{bibnamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authorbibnamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authornamehash}{d34a257663a9be6928f15b9912332864}
+      \strng{authorfullhash}{d34a257663a9be6928f15b9912332864}
+      \field{labelalpha}{RB17}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{TechTarget}
+      \field{title}{natural language processing (NLP)}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
+      \endverb
+      \verb{url}
+      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
+      \endverb
+    \endentry
     \entry{Koster1999}{article}{}
       \name{author}{2}{}{%
-        {{hash=d62ab2523bd28a56b79741dda8fda42a}{%
+        {{uniquename=0,uniquepart=base,hash=d62ab2523bd28a56b79741dda8fda42a}{%
            family={R.W.},
            familyi={R\bibinitperiod},
            given={Koster},
-           giveni={K\bibinitperiod}}}%
-        {{hash=4b0ff23b117ebf68d791638ca9619f36}{%
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=4b0ff23b117ebf68d791638ca9619f36}{%
            family={J.M.},
            familyi={J\bibinitperiod},
            given={Buiting},
-           giveni={B\bibinitperiod}}}%
+           giveni={B\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{661a58b5d42b7f36d4190d99835ce6ae}
       \strng{fullhash}{661a58b5d42b7f36d4190d99835ce6ae}
@@ -688,8 +847,11 @@
       \strng{authorbibnamehash}{661a58b5d42b7f36d4190d99835ce6ae}
       \strng{authornamehash}{661a58b5d42b7f36d4190d99835ce6ae}
       \strng{authorfullhash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \field{labelalpha}{RJ99}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Defibrillation outside hospital using an automatic external defibrillator: a life-saving but restricted action? - Application of the automatic external defibrillator can improve the chance of success during resuscitation of out-of-hospital cardiac arrest, because lay persons can defibrillate awaiting the arrival of the ambulance. Defibrillation is mentioned in the Dutch Individual Health Care Professionals Act as a precluded action. Defibrillation with an automatic external defibrillator should be excluded from the list of precluded actions, because application is almost 100 safe and because the subject is not within the scope of the law which is restricted to professional activities and non-emergency actions. Defibrillation with an automatic external defibrillator is acceptable.}
@@ -704,51 +866,20 @@
       \verb https://www.ntvg.nl/artikelen/defibrilleren-met-een-automatische-externe-defibrillator-buiten-het-ziekenhuis-een/volledig
       \endverb
     \endentry
-    \entry{Rouse2017}{article}{}
-      \name{author}{2}{}{%
-        {{hash=d6ebb0634de22e70618460d3fc936297}{%
-           family={Rouse},
-           familyi={R\bibinitperiod},
-           given={Margaret},
-           giveni={M\bibinitperiod}}}%
-        {{hash=04cc542d31ee943a5797063363a1f535}{%
-           family={Burns},
-           familyi={B\bibinitperiod},
-           given={Ed},
-           giveni={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{d34a257663a9be6928f15b9912332864}
-      \strng{fullhash}{d34a257663a9be6928f15b9912332864}
-      \strng{bibnamehash}{d34a257663a9be6928f15b9912332864}
-      \strng{authorbibnamehash}{d34a257663a9be6928f15b9912332864}
-      \strng{authornamehash}{d34a257663a9be6928f15b9912332864}
-      \strng{authorfullhash}{d34a257663a9be6928f15b9912332864}
-      \field{sortinit}{R}
-      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{TechTarget}
-      \field{title}{natural language processing (NLP)}
-      \field{year}{2017}
-      \verb{urlraw}
-      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
-      \endverb
-      \verb{url}
-      \verb https://searchbusinessanalytics.techtarget.com/definition/natural-language-processing-NLP
-      \endverb
-    \endentry
     \entry{Rouse2016}{article}{}
       \name{author}{2}{}{%
-        {{hash=d6ebb0634de22e70618460d3fc936297}{%
+        {{uniquename=0,uniquepart=base,hash=d6ebb0634de22e70618460d3fc936297}{%
            family={Rouse},
            familyi={R\bibinitperiod},
            given={Margaret},
-           giveni={M\bibinitperiod}}}%
-        {{hash=5da07083cd4c6ef3b9ef24b443099731}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5da07083cd4c6ef3b9ef24b443099731}{%
            family={Kiwak},
            familyi={K\bibinitperiod},
            given={Karolina},
-           giveni={K\bibinitperiod}}}%
+           giveni={K\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{81d47d7c0f317a7238996ee9a7f9bf55}
       \strng{fullhash}{81d47d7c0f317a7238996ee9a7f9bf55}
@@ -756,8 +887,11 @@
       \strng{authorbibnamehash}{81d47d7c0f317a7238996ee9a7f9bf55}
       \strng{authornamehash}{81d47d7c0f317a7238996ee9a7f9bf55}
       \strng{authorfullhash}{81d47d7c0f317a7238996ee9a7f9bf55}
+      \field{labelalpha}{RK16}
       \field{sortinit}{R}
       \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{TechTarget}
@@ -771,20 +905,137 @@
       \verb https://searchcustomerexperience.techtarget.com/definition/speech-recognition
       \endverb
     \endentry
+    \entry{Stil2016}{report}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=dadd01969b9a2e5749fd22859353ca12}{%
+           family={Stil},
+           familyi={S\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ad549d6facf00f56c5dd7e4bff14c31}{%
+           family={Belleng�},
+           familyi={B\bibinitperiod},
+           given={Nino},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3070cf27c45abd81473b9fa70fe11851}{%
+           family={Snoeren},
+           familyi={S\bibinitperiod},
+           given={Rob},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {VitaValley}%
+      }
+      \strng{namehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{fullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{bibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authorbibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authornamehash}{f02c5dded1d7e2ddd586b111969220eb}
+      \strng{authorfullhash}{f02c5dded1d7e2ddd586b111969220eb}
+      \field{labelalpha}{SBS16}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{month}{3}
+      \field{title}{De werkzame principes van Blended Care in het sociaal domein}
+      \field{type}{resreport}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
+      \endverb
+    \endentry
+    \entry{Seijas2018}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=b3625d88a15019e35aa14bf6f585a7aa}{%
+           family={Seijas},
+           familyi={S\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{fullhash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{bibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authorbibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authornamehash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \strng{authorfullhash}{b3625d88a15019e35aa14bf6f585a7aa}
+      \field{labelalpha}{Sei18}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Becoming Human / Medium}
+      \field{title}{Into a better Speech Synthesis Technology}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
+      \endverb
+      \verb{url}
+      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
+      \endverb
+    \endentry
+    \entry{Singh2018}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=3b97f40ef7be5939b4c296a70c8b6048}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Janvijay},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \strng{fullhash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \strng{bibnamehash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \strng{authorbibnamehash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \strng{authornamehash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \strng{authorfullhash}{3b97f40ef7be5939b4c296a70c8b6048}
+      \field{labelalpha}{Sin18}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Towards Data Science}
+      \field{title}{WaveNet: Google Assistant’s Voice Synthesizer.}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1
+      \endverb
+      \verb{url}
+      \verb https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1
+      \endverb
+    \endentry
     \entry{Schueler2018}{online}{}
       \name{author}{2}{}{%
-        {{hash=b4e8ddb246037b310129dc16d86ea65c}{%
+        {{uniquename=0,uniquepart=base,hash=b4e8ddb246037b310129dc16d86ea65c}{%
            family={Schueler},
            familyi={S\bibinitperiod},
            given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=8cf4eea3f000852cec47d9acbddd9c80}{%
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=8cf4eea3f000852cec47d9acbddd9c80}{%
            family={Wel},
            familyi={W\bibinitperiod},
            given={Pauline},
            giveni={P\bibinitperiod},
+           givenun=0,
            prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
       }
       \name{editor}{2}{}{%
         {{hash=b4e8ddb246037b310129dc16d86ea65c}{%
@@ -809,8 +1060,11 @@
       \strng{editorbibnamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
       \strng{editornamehash}{2d6ab76b77f7ac16ab8024c0b3320380}
       \strng{editorfullhash}{2d6ab76b77f7ac16ab8024c0b3320380}
+      \field{labelalpha}{SW18}
       \field{sortinit}{S}
       \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{1}
@@ -825,85 +1079,14 @@
       \verb https://www.ipsos.com/sites/default/files/ct/news/documents/2018-06/the_future_of_voice_assistants_in_the_netherlands_v0.3_mg_0.pdf
       \endverb
     \endentry
-    \entry{Seijas2018}{article}{}
-      \name{author}{1}{}{%
-        {{hash=b3625d88a15019e35aa14bf6f585a7aa}{%
-           family={Seijas},
-           familyi={S\bibinitperiod},
-           given={Jesús},
-           giveni={J\bibinitperiod}}}%
-      }
-      \strng{namehash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \strng{fullhash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \strng{bibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \strng{authorbibnamehash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \strng{authornamehash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \strng{authorfullhash}{b3625d88a15019e35aa14bf6f585a7aa}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Becoming Human / Medium}
-      \field{title}{Into a better Speech Synthesis Technology}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
-      \endverb
-      \verb{url}
-      \verb https://becominghuman.ai/into-a-better-speech-synthesis-technology-29411b64f2a2
-      \endverb
-    \endentry
-    \entry{Stil2016}{report}{}
-      \name{author}{3}{}{%
-        {{hash=dadd01969b9a2e5749fd22859353ca12}{%
-           family={Stil},
-           familyi={S\bibinitperiod},
-           given={Boris},
-           giveni={B\bibinitperiod}}}%
-        {{hash=0ad549d6facf00f56c5dd7e4bff14c31}{%
-           family={Belleng�},
-           familyi={B\bibinitperiod},
-           given={Nino},
-           giveni={N\bibinitperiod}}}%
-        {{hash=3070cf27c45abd81473b9fa70fe11851}{%
-           family={Snoeren},
-           familyi={S\bibinitperiod},
-           given={Rob},
-           giveni={R\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {VitaValley}%
-      }
-      \strng{namehash}{f02c5dded1d7e2ddd586b111969220eb}
-      \strng{fullhash}{f02c5dded1d7e2ddd586b111969220eb}
-      \strng{bibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
-      \strng{authorbibnamehash}{f02c5dded1d7e2ddd586b111969220eb}
-      \strng{authornamehash}{f02c5dded1d7e2ddd586b111969220eb}
-      \strng{authorfullhash}{f02c5dded1d7e2ddd586b111969220eb}
-      \field{sortinit}{S}
-      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{month}{3}
-      \field{title}{De werkzame principes van Blended Care in het sociaal domein}
-      \field{type}{resreport}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.kwadraad.nl/wp-content/uploads/2016/04/25-03-2016-SROIBlendedCareVerslag.pdf
-      \endverb
-    \endentry
     \entry{Taalunie2017}{article}{}
       \name{author}{1}{}{%
-        {{hash=672f7397801780dc1e99b7d92f5993cf}{%
+        {{uniquename=0,uniquepart=base,hash=672f7397801780dc1e99b7d92f5993cf}{%
            family={Taalunie},
            familyi={T\bibinitperiod},
            given={Nederlandse},
-           giveni={N\bibinitperiod}}}%
+           giveni={N\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{672f7397801780dc1e99b7d92f5993cf}
       \strng{fullhash}{672f7397801780dc1e99b7d92f5993cf}
@@ -911,8 +1094,11 @@
       \strng{authorbibnamehash}{672f7397801780dc1e99b7d92f5993cf}
       \strng{authornamehash}{672f7397801780dc1e99b7d92f5993cf}
       \strng{authorfullhash}{672f7397801780dc1e99b7d92f5993cf}
+      \field{labelalpha}{Taa17}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Nederlandse Taalunie}
@@ -928,16 +1114,18 @@
     \endentry
     \entry{Tulshan2019}{report}{}
       \name{author}{2}{}{%
-        {{hash=ca1f963e1a540745c0ed634812035959}{%
+        {{uniquename=0,uniquepart=base,hash=ca1f963e1a540745c0ed634812035959}{%
            family={Tulshan},
            familyi={T\bibinitperiod},
            given={Amrita\bibnamedelima Sunil},
-           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=3c79e2e50ec5c63e7747f7a63e1548ca}{%
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3c79e2e50ec5c63e7747f7a63e1548ca}{%
            family={Dhage},
            familyi={D\bibinitperiod},
            given={Sudhir\bibnamedelima Namdeorao},
-           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {Sardar Patel Institute of Technology}%
@@ -948,8 +1136,11 @@
       \strng{authorbibnamehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
       \strng{authornamehash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
       \strng{authorfullhash}{f3ef179791aea79eb1f0fe0b1cb3b7ea}
+      \field{labelalpha}{TD19}
       \field{sortinit}{T}
       \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Survey on Virtual Assistant: Google Assistant, Siri, Cortana, Alexa}
@@ -964,11 +1155,12 @@
     \endentry
     \entry{Vervoort2017}{article}{}
       \name{author}{1}{}{%
-        {{hash=2f83c85d7971841d161a0d94a2f7ddca}{%
+        {{uniquename=0,uniquepart=base,hash=2f83c85d7971841d161a0d94a2f7ddca}{%
            family={Vervoort},
            familyi={V\bibinitperiod},
            given={Dorien},
-           giveni={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{2f83c85d7971841d161a0d94a2f7ddca}
       \strng{fullhash}{2f83c85d7971841d161a0d94a2f7ddca}
@@ -976,8 +1168,11 @@
       \strng{authorbibnamehash}{2f83c85d7971841d161a0d94a2f7ddca}
       \strng{authornamehash}{2f83c85d7971841d161a0d94a2f7ddca}
       \strng{authorfullhash}{2f83c85d7971841d161a0d94a2f7ddca}
+      \field{labelalpha}{Ver17}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Techpulse}
@@ -992,7 +1187,7 @@
     \endentry
     \entry{Vives}{online}{}
       \name{author}{1}{}{%
-        {{hash=9844b687bbccb141ba9b6a444f492911}{%
+        {{uniquename=0,uniquepart=base,hash=9844b687bbccb141ba9b6a444f492911}{%
            family={Vives},
            familyi={V\bibinitperiod}}}%
       }
@@ -1010,8 +1205,10 @@
       \strng{editorbibnamehash}{9844b687bbccb141ba9b6a444f492911}
       \strng{editornamehash}{9844b687bbccb141ba9b6a444f492911}
       \strng{editorfullhash}{9844b687bbccb141ba9b6a444f492911}
+      \field{labelalpha}{Viv}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Zorglab: Interprofessioneel Centrum Zorgtechnologie}
@@ -1022,9 +1219,38 @@
       \verb https://www.vives.be/nl/labs/zorglab
       \endverb
     \endentry
+    \entry{Volksgezondheidenzorg2019}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=68f18ee0240bd444a000a35326b48478}{%
+           family={Volksgezondheidenzorg},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{68f18ee0240bd444a000a35326b48478}
+      \strng{fullhash}{68f18ee0240bd444a000a35326b48478}
+      \strng{bibnamehash}{68f18ee0240bd444a000a35326b48478}
+      \strng{authorbibnamehash}{68f18ee0240bd444a000a35326b48478}
+      \strng{authornamehash}{68f18ee0240bd444a000a35326b48478}
+      \strng{authorfullhash}{68f18ee0240bd444a000a35326b48478}
+      \field{labelalpha}{Vol19}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Volksgezondheidenzorg.info}
+      \field{title}{Bijkomende aandoendingen downsyndroom}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.volksgezondheidenzorg.info/onderwerp/downsyndroom/cijfers-context/oorzaken-en-gevolgen#!node-bijkomende-aandoeningen-downsyndroom
+      \endverb
+      \verb{url}
+      \verb https://www.volksgezondheidenzorg.info/onderwerp/downsyndroom/cijfers-context/oorzaken-en-gevolgen#!node-bijkomende-aandoeningen-downsyndroom
+      \endverb
+    \endentry
     \entry{Vox-Creative2019}{article}{}
       \name{author}{1}{}{%
-        {{hash=4a0a2e02bf6c0c181b6a4f2c249e97ac}{%
+        {{uniquename=0,uniquepart=base,hash=4a0a2e02bf6c0c181b6a4f2c249e97ac}{%
            family={Vox-Creative},
            familyi={V\bibinithyphendelim C\bibinitperiod}}}%
       }
@@ -1034,8 +1260,11 @@
       \strng{authorbibnamehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
       \strng{authornamehash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
       \strng{authorfullhash}{4a0a2e02bf6c0c181b6a4f2c249e97ac}
+      \field{labelalpha}{Vox19}
       \field{sortinit}{V}
       \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Verge}
@@ -1050,30 +1279,36 @@
     \endentry
     \entry{Wentzel2016}{article}{}
       \name{author}{4}{}{%
-        {{hash=65a18b3e0bbfff08ab21a147defce0aa}{%
+        {{uniquename=0,uniquepart=base,hash=65a18b3e0bbfff08ab21a147defce0aa}{%
            family={Wentzel},
            familyi={W\bibinitperiod},
            given={Jobke},
-           giveni={J\bibinitperiod}}}%
-        {{hash=b5fba294420a07e27768bffde1d4c326}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=b5fba294420a07e27768bffde1d4c326}{%
            family={Vaart},
            familyi={V\bibinitperiod},
            given={Rosalie},
            giveni={R\bibinitperiod},
+           givenun=0,
            prefix={van\bibnamedelima der},
-           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=fe28e5291e459f3b246d167f3f1cba06}{%
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{uniquename=0,uniquepart=base,hash=fe28e5291e459f3b246d167f3f1cba06}{%
            family={T\bibnamedelima Bohlmeijer},
            familyi={T\bibinitperiod\bibinitdelim B\bibinitperiod},
            given={Ernst},
-           giveni={E\bibinitperiod}}}%
-        {{hash=707d0f8de02e47e4401a04ffb2a8f925}{%
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=707d0f8de02e47e4401a04ffb2a8f925}{%
            family={Gemert-Pijnen},
            familyi={G\bibinithyphendelim P\bibinitperiod},
            given={Jul},
            giveni={J\bibinitperiod},
+           givenun=0,
            prefix={van},
-           prefixi={v\bibinitperiod}}}%
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
       }
       \strng{namehash}{0c348ecdcf611b336797efdcb2627254}
       \strng{fullhash}{cdc1b25cfa1c86b58c73c2f3dbbac539}
@@ -1081,8 +1316,11 @@
       \strng{authorbibnamehash}{0c348ecdcf611b336797efdcb2627254}
       \strng{authornamehash}{0c348ecdcf611b336797efdcb2627254}
       \strng{authorfullhash}{cdc1b25cfa1c86b58c73c2f3dbbac539}
+      \field{labelalpha}{Wen+16}
       \field{sortinit}{W}
       \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{9}
@@ -1098,11 +1336,39 @@
       \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764785/
       \endverb
     \endentry
+    \entry{Woodford2019}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dbe6d9f98cd129a4856753f0f1129244}{%
+           family={Woodford},
+           familyi={W\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dbe6d9f98cd129a4856753f0f1129244}
+      \strng{fullhash}{dbe6d9f98cd129a4856753f0f1129244}
+      \strng{bibnamehash}{dbe6d9f98cd129a4856753f0f1129244}
+      \strng{authorbibnamehash}{dbe6d9f98cd129a4856753f0f1129244}
+      \strng{authornamehash}{dbe6d9f98cd129a4856753f0f1129244}
+      \strng{authorfullhash}{dbe6d9f98cd129a4856753f0f1129244}
+      \field{labelalpha}{Woo19}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Explainthatstuff}
+      \field{title}{Speech recognition software}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.explainthatstuff.com/voicerecognition.html
+      \endverb
+      \verb{url}
+      \verb https://www.explainthatstuff.com/voicerecognition.html
+      \endverb
+    \endentry
   \enddatalist
-  \missing{Singh}
-  \missing{Woodford 2019}
-  \missing{gezondheid.be2018}
-  \missing{volksgezondheidenzorg2019}
 \endrefsection
 \endinput
 

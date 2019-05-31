@@ -24,7 +24,7 @@ Application of the automatic external defibrillator can improve the chance of su
 @Article{Gezondheid.be2018,
   author  = {Gezondheid.be},
   title   = {Hoe herkent u een hartstilstand?},
-  journal = {Gezondheid.be},
+  journal = {Gezondheidbe},
   year    = {2018},
   url     = {https://www.gezondheid.be/index.cfm?fuseaction=art&art_id=26308},
 }
@@ -234,12 +234,20 @@ Application of the automatic external defibrillator can improve the chance of su
   title   = {De glazen bol van specialist e-commerce Steven Van Belleghem: "Slimme luidspreker zal onze manier van consumeren veranderen"},
   journal = {VRT NWS},
   year    = {2019},
+  url     = {https://www.vrt.be/vrtnws/nl/2019/03/13/de-glazen-bol-van-steven-van-belleghem-de-slimme-luidspreker-g/},
 }
 
-@Manual{actionsongoogle,
+@Manual{Actionsongoogle,
   title = {Actions On Google documentation},
   url   = {https://developers.google.com/actions/overview
 },
+}
+
+@Article{Hamers2019,
+  author  = {J. Hamers},
+  title   = {Rode Kruis lanceert eerstehulp-app},
+  journal = {Metro},
+  year    = {2019},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

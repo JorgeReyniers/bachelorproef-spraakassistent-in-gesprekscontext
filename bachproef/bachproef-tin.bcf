@@ -40,7 +40,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labelalpha</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labelnamespec</bcf:key>
@@ -66,7 +66,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -139,7 +139,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nty</bcf:value>
+      <bcf:value>anyt</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -147,11 +147,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -2000,19 +2000,19 @@
     <bcf:citekey order="14">Haenen2018</bcf:citekey>
     <bcf:citekey order="15">Buysse</bcf:citekey>
     <bcf:citekey order="16">Buysse</bcf:citekey>
-    <bcf:citekey order="17">volksgezondheidenzorg2019</bcf:citekey>
+    <bcf:citekey order="17">Volksgezondheidenzorg2019</bcf:citekey>
     <bcf:citekey order="18">Hamers2019</bcf:citekey>
     <bcf:citekey order="19">Taalunie2017</bcf:citekey>
     <bcf:citekey order="20">Rouse2016</bcf:citekey>
     <bcf:citekey order="21">Vervoort2017</bcf:citekey>
     <bcf:citekey order="22">Geitgey2016</bcf:citekey>
-    <bcf:citekey order="23">Woodford 2019</bcf:citekey>
+    <bcf:citekey order="23">Woodford2019</bcf:citekey>
     <bcf:citekey order="24">Vervoort2017</bcf:citekey>
     <bcf:citekey order="25">Rouse2016</bcf:citekey>
     <bcf:citekey order="26">Seijas2018</bcf:citekey>
     <bcf:citekey order="27">Oord2016</bcf:citekey>
     <bcf:citekey order="28">Oord2016</bcf:citekey>
-    <bcf:citekey order="29">Singh</bcf:citekey>
+    <bcf:citekey order="29">Singh2018</bcf:citekey>
     <bcf:citekey order="30">Rouse2017</bcf:citekey>
     <bcf:citekey order="31">Garbade2018</bcf:citekey>
     <bcf:citekey order="32">Vox-Creative2019</bcf:citekey>
@@ -2027,39 +2027,44 @@
     <bcf:citekey order="41">Puri1998</bcf:citekey>
     <bcf:citekey order="42">IBM2011</bcf:citekey>
     <bcf:citekey order="43">Markoff2011</bcf:citekey>
-    <bcf:citekey order="44">Belghmidi2019a</bcf:citekey>
-    <bcf:citekey order="45">Lopez2018</bcf:citekey>
-    <bcf:citekey order="46">Tulshan2019</bcf:citekey>
-    <bcf:citekey order="47">Lopez2018</bcf:citekey>
-    <bcf:citekey order="48">Tulshan2019</bcf:citekey>
-    <bcf:citekey order="49">Brandt2018</bcf:citekey>
+    <bcf:citekey order="44">Markoff2011</bcf:citekey>
+    <bcf:citekey order="45">Belghmidi2019a</bcf:citekey>
+    <bcf:citekey order="46">Lopez2018</bcf:citekey>
+    <bcf:citekey order="47">Tulshan2019</bcf:citekey>
+    <bcf:citekey order="48">Lopez2018</bcf:citekey>
+    <bcf:citekey order="49">Tulshan2019</bcf:citekey>
     <bcf:citekey order="50">Brandt2018</bcf:citekey>
-    <bcf:citekey order="51">Belghmidi2019a</bcf:citekey>
-    <bcf:citekey order="52">Belghmidi2019</bcf:citekey>
-    <bcf:citekey order="53">Decroubele2019</bcf:citekey>
-    <bcf:citekey order="54">gezondheid.be2018</bcf:citekey>
-    <bcf:citekey order="55">Koster1999</bcf:citekey>
-    <bcf:citekey order="56">Brandt2018</bcf:citekey>
-    <bcf:citekey order="57">Passies2018</bcf:citekey>
-    <bcf:citekey order="58">Haenen2018</bcf:citekey>
-    <bcf:citekey order="59">Schueler2018</bcf:citekey>
-    <bcf:citekey order="60">Datanews2012</bcf:citekey>
-    <bcf:citekey order="61">Stil2016</bcf:citekey>
-    <bcf:citekey order="62">Wentzel2016</bcf:citekey>
-    <bcf:citekey order="63">Grypdonck2015</bcf:citekey>
-    <bcf:citekey order="64">Jongejan2016</bcf:citekey>
-    <bcf:citekey order="65">Stil2016</bcf:citekey>
-    <bcf:citekey order="66">Vives</bcf:citekey>
+    <bcf:citekey order="51">Brandt2018</bcf:citekey>
+    <bcf:citekey order="52">Brandt2018</bcf:citekey>
+    <bcf:citekey order="53">Belghmidi2019a</bcf:citekey>
+    <bcf:citekey order="54">Belghmidi2019</bcf:citekey>
+    <bcf:citekey order="55">Decroubele2019</bcf:citekey>
+    <bcf:citekey order="56">Gezondheidbe2018</bcf:citekey>
+    <bcf:citekey order="57">Koster1999</bcf:citekey>
+    <bcf:citekey order="58">Brandt2018</bcf:citekey>
+    <bcf:citekey order="59">Passies2018</bcf:citekey>
+    <bcf:citekey order="60">Haenen2018</bcf:citekey>
+    <bcf:citekey order="61">Schueler2018</bcf:citekey>
+    <bcf:citekey order="62">Datanews2012</bcf:citekey>
+    <bcf:citekey order="63">Stil2016</bcf:citekey>
+    <bcf:citekey order="64">Wentzel2016</bcf:citekey>
+    <bcf:citekey order="65">Grypdonck2015</bcf:citekey>
+    <bcf:citekey order="66">Jongejan2016</bcf:citekey>
+    <bcf:citekey order="67">Stil2016</bcf:citekey>
+    <bcf:citekey order="68">Vives</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nty">
+  <bcf:sortingtemplate name="anyt">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="2" final="1">
+    <bcf:sort order="2">
+      <bcf:sortitem order="1">labelalpha</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3" final="1">
       <bcf:sortitem order="1">sortkey</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="3">
+    <bcf:sort order="4">
       <bcf:sortitem order="1">sortname</bcf:sortitem>
       <bcf:sortitem order="2">author</bcf:sortitem>
       <bcf:sortitem order="3">editor</bcf:sortitem>
@@ -2067,24 +2072,24 @@
       <bcf:sortitem order="5">sorttitle</bcf:sortitem>
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
-    <bcf:sort order="4">
-      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
-      <bcf:sortitem order="2">title</bcf:sortitem>
-    </bcf:sort>
     <bcf:sort order="5">
       <bcf:sortitem order="1">sortyear</bcf:sortitem>
       <bcf:sortitem order="2">year</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
       <bcf:sortitem order="1">volume</bcf:sortitem>
       <bcf:sortitem order="2">0</bcf:sortitem>
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="nty/global//global/global"
+                name="anyt/global//global/global"
                 type="entry"
-                sortingtemplatename="nty"
+                sortingtemplatename="anyt"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

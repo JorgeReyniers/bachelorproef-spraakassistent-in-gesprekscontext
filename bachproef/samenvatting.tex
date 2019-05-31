@@ -2,21 +2,16 @@
 %% Samenvatting
 %%=============================================================================
 
-% TODO: De "abstract" of samenvatting is een kernachtige (~ 1 blz. voor een
-% thesis) synthese van het document.
-%
-% Deze aspecten moeten zeker aan bod komen:
-% - Context: waarom is dit werk belangrijk?
-% - Nood: waarom moest dit onderzocht worden?
-% - Taak: wat heb je precies gedaan?
-% - Object: wat staat in dit document geschreven?
-% - Resultaat: wat was het resultaat?
-% - Conclusie: wat is/zijn de belangrijkste conclusie(s)?
-% - Perspectief: blijven er nog vragen open die in de toekomst nog kunnen
-%    onderzocht worden? Wat is een mogelijk vervolg voor jouw onderzoek?
-%
-% LET OP! Een samenvatting is GEEN voorwoord!
+\IfLanguageName{english}{%
+\selectlanguage{dutch}
+\chapter*{Samenvatting}
+\selectlanguage{english}
+}{}
 
+%%---------- Samenvatting -----------------------------------------------------
+% De samenvatting in de hoofdtaal van het document
+
+\chapter*{\IfLanguageName{dutch}{Samenvatting}{Abstract}}
 Persoonlijke spraakassistenten als Amazon's Alexa, Apple's Siri of de Assistant van Google zijn aan een serieuze opmars bezig in Amerika. Tegenwoordig komen ze ook allemaal met een bijpassende smart speaker waar de spraakassistent is ingebouwd. In België blijft de populariteit nog uit, maar daar kan verandering in komen. Na de aankondiging van Google dat zijn persoonlijke assistent binnenkort een Belgische variant zal krijgen, sijpelen de eerste toepassingen van de grote bedrijven al binnen. Welk doel, naast winst maken, kan een toekomstige applicatie voor de Belgische variant nog hebben? Deze bachelorproef was eerst en vooral een zoektocht naar een doel die voor een bepaalde groep een meerwaarde is en waar op weinig weerstand wordt gebotst. Een bijzonder doelgroep bleek hiervoor niet de beste optie. Daarom is er gekozen om een applicatie te maken die de Vlaming kan helpen bij het verlenen van Eerste Hulp Bij Ongevallen. Veel informatie die nodig is om de applicatie te bouwen is af te leiden uit de recente mobiele applicatie die is gemaakt door het Rode Kruis en hetzelfde doel heeft.
 
 Er is een literatuuronderzoek geschreven over de wereld van spraaktechnologie. Daaruit bleek dat spraakassistenten twee noodzakelijke functies hebben, namelijk spraakherkenning en spraaksynthese. Spraakherkenning of Speech-To-Text is gesproken taal omvormen naar voor de computer leesbare taal. Spraaksynthese is net het omgekeerde en is menselijke spraak gevormd door een computer.
@@ -30,25 +25,3 @@ Het tweede deel van het onderzoek, het vergelijken van de kwaliteit van de assis
 Uiteindelijk is de keuze ondanks de resultaten toch gevallen op de Nederlandstalige Google Assistant. Dit komt omdat de Nederlandse taal een doorslaggevende factor is voor het verlenen van eerste hulp in België. Daarnaast wijst het erop dat Google als eerste assistant zijn intrek probeert te nemen in de Vlaamse woonkamers. De resultaten blijven bruikbaar bij het kiezen van een spraakassistent voor een eerste hulp-applicatie die wereldwijd wordt aangeboden in de Engelse taal. Als er enkel wordt afgegaan op de resultaten van het onderzoek naar de spraakkwaliteit dan is de Google Assistant de favoriet.
 
 Als laatste is er een kort beeld geschetst van hoe een applicatie voor de Google Assistant werkt en hoe die werking kan verlopen bij de specifieke use case van het onderzoek. Het plan is om in de weken na het schrijven van deze bachelorproef een eerste versie te ontwikkelen van de eerstehulp-applicatie voor de Google Assistant. In de verdere toekomst kan deze versie getest worden. Feedback van gebruikers kan verwerkt worden en bij interesse van het Rode Kruis kan er mogelijks een samenwerking worden aangegaan.
-
-%%---------- Nederlandse samenvatting -----------------------------------------
-%
-% TODO: Als je je bachelorproef in het Engels schrijft, moet je eerst een
-% Nederlandse samenvatting invoegen. Haal daarvoor onderstaande code uit
-% commentaar.
-% Wie zijn bachelorproef in het Nederlands schrijft, kan dit negeren, de inhoud
-% wordt niet in het document ingevoegd.
-
-\IfLanguageName{english}{%
-\selectlanguage{dutch}
-\chapter*{Samenvatting}
-\selectlanguage{english}
-}{}
-
-%%---------- Samenvatting -----------------------------------------------------
-% De samenvatting in de hoofdtaal van het document
-
-
-
-\chapter*{\IfLanguageName{dutch}{Samenvatting}{Abstract}}
-

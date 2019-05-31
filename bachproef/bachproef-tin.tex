@@ -4,7 +4,12 @@
 %%=============================================================================
 
 \documentclass[fleqn,a4paper,12pt]{book}
-\usepackage[backend=biber]{biblatex}
+\usepackage{float}
+\usepackage[
+style=alphabetic,
+citestyle=authoryear,
+autocite=inline
+]{biblatex}
 \usepackage{listings}
 \lstset{frame=tb,
     language=R,
@@ -16,6 +21,47 @@
 }
 \usepackage{glossaries}
 \makeglossaries
+\newglossaryentry{AI}
+{
+    name=AI,
+    description={Artificial Intelligence}
+}
+
+\newglossaryentry{AED}
+{
+    name=AED,
+    description={De AED of automatische externe defibrillator is een toestel dat een elektrische schok geeft om het hartritme te herstellen bij een hartaanval.}
+}
+
+\newglossaryentry{GA}
+{
+    name=GA,
+    description={Google Asssistant.}
+}
+
+\newglossaryentry{GA NL}
+{
+    name=GA NL,
+    description={De Nederlandse versie van de Google Assistant.}
+}
+
+\newglossaryentry{NLP}
+{
+    name=NLP,
+    description={Natural Language Processing.}
+}
+
+\newglossaryentry{STT}
+{
+    name=STT,
+    description={Speech-To-Text of spraakherkenning.}
+}
+
+\newglossaryentry{TTS}
+{
+    name=TTS,
+    description={Text-To-Speech of spraaksynthese.}
+}
 
 \input{structure}
 
@@ -86,56 +132,11 @@
 %
 %  \caption[korte beschrijving]{uitgebreide beschrijving}
 \listoffigures
-\listoftables
 
 % Als je een lijst van afkortingen of termen wil toevoegen, dan hoort die
 % hier thuis. Gebruik bijvoorbeeld de ``glossaries'' package.
 % https://www.sharelatex.com/learn/Glossaries
-
-\newglossaryentry{AI}
-{
-    name=AI,
-    description={Artificial Intelligence}
-}
-
-\newglossaryentry{AED}
-{
-    name=AED,
-    description={De AED of automatische externe defibrillator is een toestel dat een elektrische schok geeft om het hartritme te herstellen bij een hartaanval.}
-}
-
-\newglossaryentry{GA}
-{
-    name=GA,
-    description={Google Asssistant.}
-}
-
-\newglossaryentry{GA NL}
-{
-    name=GA NL,
-    description={De Nederlandse versie van de Google Assistant.}
-}
-
-\newglossaryentry{NLP}
-{
-    name=NLP,
-    description={Natural Language Processing.}
-}
-
-\newglossaryentry{STT}
-{
-    name=STT,
-    description={Speech-To-Text of spraakherkenning.}
-}
-
-\newglossaryentry{TTS}
-{
-    name=TTS,
-    description={Text-To-Speech of spraaksynthese.}
-}
-
 \printglossaries
-
 
 %%---------- Kern -------------------------------------------------------------
 
