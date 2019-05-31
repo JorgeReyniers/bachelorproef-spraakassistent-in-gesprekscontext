@@ -1,4 +1,4 @@
-#Takenlijst bachelorproef
+# Takenlijst bachelorproef
 * Literatuuronderzoek voeren
 * Co-promotor zoeken
 * Stand van zaken (state of the art) schrijven
@@ -11,8 +11,8 @@
 * Uitschrijven resultaten observatie(s)
 * Verkenning van bestaande mogelijkheden van spraakgestuurde technologie
 * Neerschrijven van bevindingen na verkenning
-* Uitgebreider onderzoek van twee spraakgestuurde technologiëen naar voorkeur
-* Neerschrijven van de mogelijkheden van de twee gekozen technologiëen
+* Uitgebreider onderzoek van twee spraakgestuurde technologiÃ«en naar voorkeur
+* Neerschrijven van de mogelijkheden van de twee gekozen technologiÃ«en
 * Resultaten van interview(s) en observatie(s) verwerken in de keuze van een technologie
 * Proof of concept schrijven
 * [mogelijks] Requirements opstellen
@@ -26,4 +26,5 @@
 * Conclusie schrijven
 * Voorwoord schrijven
 * Samenvatting schrijven
+
 \*Deze stappen kunnen meermaals voorkomen, afhankelijk van een aantal factoren zoals tijd, meerwaarde observaties, aantal requirements, enz.
