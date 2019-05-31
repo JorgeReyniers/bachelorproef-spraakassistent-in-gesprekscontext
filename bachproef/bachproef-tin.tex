@@ -14,6 +14,9 @@
     numbers=none,
     tabsize=3
 }
+\usepackage{glossaries}
+\makeglossaries
+
 \input{structure}
 
 %%---------- Documenteigenschappen --------------------------------------------
@@ -89,10 +92,55 @@
 % hier thuis. Gebruik bijvoorbeeld de ``glossaries'' package.
 % https://www.sharelatex.com/learn/Glossaries
 
+\newglossaryentry{AI}
+{
+    name=AI,
+    description={Artificial Intelligence}
+}
+
+\newglossaryentry{AED}
+{
+    name=AED,
+    description={De AED of automatische externe defibrillator is een toestel dat een elektrische schok geeft om het hartritme te herstellen bij een hartaanval.}
+}
+
+\newglossaryentry{GA}
+{
+    name=GA,
+    description={Google Asssistant.}
+}
+
+\newglossaryentry{GA NL}
+{
+    name=GA NL,
+    description={De Nederlandse versie van de Google Assistant.}
+}
+
+\newglossaryentry{NLP}
+{
+    name=NLP,
+    description={Natural Language Processing.}
+}
+
+\newglossaryentry{STT}
+{
+    name=STT,
+    description={Speech-To-Text of spraakherkenning.}
+}
+
+\newglossaryentry{TTS}
+{
+    name=TTS,
+    description={Text-To-Speech of spraaksynthese.}
+}
+
+\printglossaries
+
 
 %%---------- Kern -------------------------------------------------------------
 
 \input{inleiding}
+\input{zoektocht}
 \input{standvanzaken}
 \input{methodologie}
 \input{resultaten}

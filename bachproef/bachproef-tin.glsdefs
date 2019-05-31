@@ -1,0 +1,210 @@
+\ifglsentryexists{AI}{}%
+{%
+\gls@defglossaryentry{AI}%
+{%
+name={AI},%
+sort={AI},%
+type={main},%
+first={AI},%
+firstplural={AIs},%
+text={AI},%
+plural={AIs},%
+description={Artificial Intelligence},%
+descriptionplural={Artificial Intelligence},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{AED}{}%
+{%
+\gls@defglossaryentry{AED}%
+{%
+name={AED},%
+sort={AED},%
+type={main},%
+first={AED},%
+firstplural={AEDs},%
+text={AED},%
+plural={AEDs},%
+description={De AED of automatische externe defibrillator is een toestel dat een elektrische schok geeft om het hartritme te herstellen bij een hartaanval.},%
+descriptionplural={De AED of automatische externe defibrillator is een toestel dat een elektrische schok geeft om het hartritme te herstellen bij een hartaanval.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GA}{}%
+{%
+\gls@defglossaryentry{GA}%
+{%
+name={GA},%
+sort={GA},%
+type={main},%
+first={GA},%
+firstplural={GAs},%
+text={GA},%
+plural={GAs},%
+description={Google Asssistant.},%
+descriptionplural={Google Asssistant.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GA NL}{}%
+{%
+\gls@defglossaryentry{GA NL}%
+{%
+name={GA NL},%
+sort={GA NL},%
+type={main},%
+first={GA NL},%
+firstplural={GA NLs},%
+text={GA NL},%
+plural={GA NLs},%
+description={De Nederlandse versie van de Google Assistant.},%
+descriptionplural={De Nederlandse versie van de Google Assistant.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NLP}{}%
+{%
+\gls@defglossaryentry{NLP}%
+{%
+name={NLP},%
+sort={NLP},%
+type={main},%
+first={NLP},%
+firstplural={NLPs},%
+text={NLP},%
+plural={NLPs},%
+description={Natural Language Processing.},%
+descriptionplural={Natural Language Processing.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{STT}{}%
+{%
+\gls@defglossaryentry{STT}%
+{%
+name={STT},%
+sort={STT},%
+type={main},%
+first={STT},%
+firstplural={STTs},%
+text={STT},%
+plural={STTs},%
+description={Speech-To-Text of spraakherkenning.},%
+descriptionplural={Speech-To-Text of spraakherkenning.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{TTS}{}%
+{%
+\gls@defglossaryentry{TTS}%
+{%
+name={TTS},%
+sort={TTS},%
+type={main},%
+first={TTS},%
+firstplural={TTSs},%
+text={TTS},%
+plural={TTSs},%
+description={Text-To-Speech of spraaksynthese.},%
+descriptionplural={Text-To-Speech of spraaksynthese.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%

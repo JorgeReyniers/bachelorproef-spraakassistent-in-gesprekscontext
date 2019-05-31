@@ -1,20 +1,27 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'bachproef-tin.blg'
-[44] biber-MSWIN64:315> INFO - === 
-[88] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
-[229] Biber.pm:889> INFO - Found 28 citekeys in bib section 0
-[253] Biber.pm:4093> INFO - Processing section 0
-[273] Biber.pm:4254> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
-[284] bibtex.pm:1523> INFO - LaTeX decoding ...
-[334] bibtex.pm:1340> INFO - Found BibTeX data source 'bachproef-tin.bib'
-[434] Biber.pm:4254> INFO - Looking for bibtex format file '../voorstel/voorstel.bib' for section 0
-[446] bibtex.pm:1523> INFO - LaTeX decoding ...
-[459] bibtex.pm:1340> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
-[531] Utils.pm:193> WARN - I didn't find a database entry for 'Woodford 2019' (section 0)
-[582] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[582] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
-[582] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'nl-NL'
-[582] Biber.pm:3927> INFO - No sort tailoring available for locale 'nl-NL'
-[629] bbl.pm:636> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
-[642] bbl.pm:739> INFO - Output to bachproef-tin.bbl
-[649] Biber.pm:110> INFO - WARNINGS: 1
+[43] biber-MSWIN64:315> INFO - === 
+[119] Biber.pm:371> INFO - Reading 'bachproef-tin.bcf'
+[220] Biber.pm:889> INFO - Found 36 citekeys in bib section 0
+[235] Biber.pm:4093> INFO - Processing section 0
+[263] Biber.pm:4254> INFO - Looking for bibtex format file 'bachproef-tin.bib' for section 0
+[318] bibtex.pm:1523> INFO - LaTeX decoding ...
+[360] bibtex.pm:1340> INFO - Found BibTeX data source 'bachproef-tin.bib'
+[373] Utils.pm:193> WARN - Possible typo (case mismatch) between citation and datasource keys: 'volksgezondheidenzorg2019' and 'Volksgezondheidenzorg2019' in file 'bachproef-tin.bib'
+[454] Utils.pm:193> WARN - Possible typo (case mismatch) between citation and datasource keys: 'gezondheid.be2018' and 'Gezondheid.be2018' in file 'bachproef-tin.bib'
+[466] Biber.pm:4254> INFO - Looking for bibtex format file '../voorstel/voorstel.bib' for section 0
+[507] bibtex.pm:1523> INFO - LaTeX decoding ...
+[525] bibtex.pm:1340> INFO - Found BibTeX data source '../voorstel/voorstel.bib'
+[537] Utils.pm:193> WARN - Possible typo (case mismatch) between citation and datasource keys: 'volksgezondheidenzorg2019' and 'Volksgezondheidenzorg2019' in file '../voorstel/voorstel.bib'
+[537] Utils.pm:193> WARN - Possible typo (case mismatch) between citation and datasource keys: 'gezondheid.be2018' and 'Gezondheid.be2018' in file '../voorstel/voorstel.bib'
+[585] Utils.pm:193> WARN - I didn't find a database entry for 'volksgezondheidenzorg2019' (section 0)
+[586] Utils.pm:193> WARN - I didn't find a database entry for 'Woodford 2019' (section 0)
+[586] Utils.pm:193> WARN - I didn't find a database entry for 'Singh' (section 0)
+[586] Utils.pm:193> WARN - I didn't find a database entry for 'gezondheid.be2018' (section 0)
+[642] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[642] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[642] Biber.pm:3921> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'nl-NL'
+[643] Biber.pm:3927> INFO - No sort tailoring available for locale 'nl-NL'
+[750] bbl.pm:636> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[764] bbl.pm:739> INFO - Output to bachproef-tin.bbl
+[769] Biber.pm:110> INFO - WARNINGS: 8

@@ -164,4 +164,82 @@ Application of the automatic external defibrillator can improve the chance of su
   url     = {https://www.explainthatstuff.com/voicerecognition.html},
 }
 
+@Article{Belghmidi2019,
+  author  = {Loutfi Belghmidi},
+  title   = {Google Assistant vanaf nu ook in ons land: hoe werkt het en wat zijn de mogelijkheden?},
+  journal = {VRT NWS},
+  year    = {2019},
+  url     = {https://www.vrt.be/vrtnws/nl/2019/05/26/virtueel-assistent-oke-google-vanaf-nu-ook-in-ons-land/},
+}
+
+@Conference{Lopez2018,
+  author    = {Gustavo López AND Luis Quesada AND Luis A. Guerrero},
+  title     = {Alexa vs. Siri vs. Cortana vs. Google Assistant: A Comparison of Speech-based Natural User Interfaces},
+  booktitle = {International Conference on Applied Human Factors and Ergonomics},
+  year      = {2018},
+  school    = {University of Costa Rica},
+  url       = {https://www.researchgate.net/publication/318161646_Alexa_vs_Siri_vs_Cortana_vs_Google_Assistant_A_Comparison_of_Speech-Based_Natural_User_Interfaces},
+}
+
+@TechReport{Tulshan2019,
+  author      = {Amrita Sunil Tulshan AND Sudhir Namdeorao Dhage},
+  title       = {Survey on Virtual Assistant: Google Assistant, Siri, Cortana, Alexa},
+  institution = {Sardar Patel Institute of Technology},
+  year        = {2019},
+  url         = {https://www.researchgate.net/publication/330165159_Survey_on_Virtual_Assistant_Google_Assistant_Siri_Cortana_Alexa_4th_International_Symposium_SIRS_2018_Bangalore_India_September_19-22_2018_Revised_Selected_Papers},
+}
+
+@Article{Volksgezondheidenzorg2019,
+  author  = {Volksgezondheidenzorg},
+  title   = {Bijkomende aandoendingen downsyndroom},
+  journal = {Volksgezondheidenzorg.info},
+  year    = {2019},
+  url     = {https://www.volksgezondheidenzorg.info/onderwerp/downsyndroom/cijfers-context/oorzaken-en-gevolgen#!node-bijkomende-aandoeningen-downsyndroom},
+}
+
+@Unpublished{Buysse,
+  author = {Jens Buysse AND Iris Storme AND Mieke Gesquiere AND Karine Samyn AND Harm De Weirdt AND Matthea Belis},
+  title  = {Have a little FAITH in me: FAciliterende IT bij individuele begeleidingsgesprekken in de jeugdHulp},
+  note   = {In Progress},
+  url    = {https://expertise.hogent.be/nl/projects/have-a-little-faith-in-me-faciliterende-it-bij-individuele-begeleidingsgesprekken-in-de-jeugdhulp(2f16a016-df47-4098-b8ec-a6b638582636).html
+},
+}
+
+@Article{Saxena2017,
+  author  = {Utkarsh Saxena},
+  title   = {Speech Synthesis Techniques using Deep Neural Networks},
+  journal = {Medium},
+  year    = {2017},
+  url     = {https://medium.com/@saxenauts/speech-synthesis-techniques-using-deep-neural-networks-38699e943861},
+}
+
+@Article{Oord2016,
+  author  = {Aäron van den Oord AND Sander Dieleman},
+  title   = {WaveNet: A Generative Model for Raw Audio},
+  journal = {Deepmind},
+  year    = {2016},
+  url     = {https://deepmind.com/blog/wavenet-generative-model-raw-audio/},
+}
+
+@Article{Singh2018,
+  author  = {Janvijay Singh},
+  title   = {WaveNet: Google Assistant’s Voice Synthesizer.},
+  journal = {Towards Data Science},
+  year    = {2018},
+  url     = {https://towardsdatascience.com/wavenet-google-assistants-voice-synthesizer-a168e9af13b1},
+}
+
+@Article{Belghmidi2019a,
+  author  = {Loutfi Belghmidi},
+  title   = {De glazen bol van specialist e-commerce Steven Van Belleghem: "Slimme luidspreker zal onze manier van consumeren veranderen"},
+  journal = {VRT NWS},
+  year    = {2019},
+}
+
+@Manual{actionsongoogle,
+  title = {Actions On Google documentation},
+  url   = {https://developers.google.com/actions/overview
+},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}

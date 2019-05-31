@@ -19,6 +19,35 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Belghmidi2019a}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd444e33946dd3f0c327b17fa56ee01b}{%
+           family={Belghmidi},
+           familyi={B\bibinitperiod},
+           given={Loutfi},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{fullhash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{bibnamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authorbibnamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authornamehash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \strng{authorfullhash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{VRT NWS}
+      \field{title}{De glazen bol van specialist e-commerce Steven Van Belleghem: "Slimme luidspreker zal onze manier van consumeren veranderen"}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://www.vrt.be/vrtnws/nl/2019/03/13/de-glazen-bol-van-steven-van-belleghem-de-slimme-luidspreker-g/
+      \endverb
+      \verb{url}
+      \verb https://www.vrt.be/vrtnws/nl/2019/03/13/de-glazen-bol-van-steven-van-belleghem-de-slimme-luidspreker-g/
+      \endverb
+    \endentry
     \entry{Belghmidi2019}{article}{}
       \name{author}{1}{}{%
         {{hash=cd444e33946dd3f0c327b17fa56ee01b}{%
@@ -33,6 +62,7 @@
       \strng{authorbibnamehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{authornamehash}{cd444e33946dd3f0c327b17fa56ee01b}
       \strng{authorfullhash}{cd444e33946dd3f0c327b17fa56ee01b}
+      \field{extraname}{2}
       \field{sortinit}{B}
       \field{sortinithash}{276475738cc058478c1677046f857703}
       \field{labelnamesource}{author}
@@ -74,6 +104,58 @@
       \endverb
       \verb{url}
       \verb https://www.statista.com/chart/9580/how-smart-are-smart-assistants/
+      \endverb
+    \endentry
+    \entry{Buysse}{unpublished}{}
+      \name{author}{6}{}{%
+        {{hash=850cdcb002e6c110ccfeff9e575104d5}{%
+           family={Buysse},
+           familyi={B\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+        {{hash=91ce18c74e9b5391cb3fd85c3eb56f3a}{%
+           family={Storme},
+           familyi={S\bibinitperiod},
+           given={Iris},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8ecdab00ba3d9386ca1dac5a157c67ce}{%
+           family={Gesquiere},
+           familyi={G\bibinitperiod},
+           given={Mieke},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5f4c607b4b8f359ee58618a34dd22b0}{%
+           family={Samyn},
+           familyi={S\bibinitperiod},
+           given={Karine},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a934e4f3e246d5898c528a054758d233}{%
+           family={Weirdt},
+           familyi={W\bibinitperiod},
+           given={Harm\bibnamedelima De},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=757f2135b729463f09b9bc20f6c64b5a}{%
+           family={Belis},
+           familyi={B\bibinitperiod},
+           given={Matthea},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b31e03860a2d54985eccfef40414090a}
+      \strng{fullhash}{1e7fe6ee9957a70538e4fb7c17a400a5}
+      \strng{bibnamehash}{b31e03860a2d54985eccfef40414090a}
+      \strng{authorbibnamehash}{b31e03860a2d54985eccfef40414090a}
+      \strng{authornamehash}{b31e03860a2d54985eccfef40414090a}
+      \strng{authorfullhash}{1e7fe6ee9957a70538e4fb7c17a400a5}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{In Progress}
+      \field{title}{Have a little FAITH in me: FAciliterende IT bij individuele begeleidingsgesprekken in de jeugdHulp}
+      \verb{urlraw}
+      \verb https://expertise.hogent.be/nl/projects/have-a-little-faith-in-me-faciliterende-it-bij-individuele-begeleidingsgesprekken-in-de-jeugdhulp(2f16a016-df47-4098-b8ec-a6b638582636).html
+      \endverb
+      \verb{url}
+      \verb https://expertise.hogent.be/nl/projects/have-a-little-faith-in-me-faciliterende-it-bij-individuele-begeleidingsgesprekken-in-de-jeugdhulp(2f16a016-df47-4098-b8ec-a6b638582636).html
       \endverb
     \endentry
     \entry{Datanews2012}{online}{}
@@ -269,6 +351,28 @@
       \verb https://www.androidplanet.nl/nieuws/google-home-release-nederland-3/
       \endverb
     \endentry
+    \entry{Hamers2019}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f24f60286a31ac9d3b7a8ff137576eb8}{%
+           family={Hamers},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \strng{fullhash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \strng{bibnamehash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \strng{authorbibnamehash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \strng{authornamehash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \strng{authorfullhash}{f24f60286a31ac9d3b7a8ff137576eb8}
+      \field{sortinit}{H}
+      \field{sortinithash}{5f15a7bc777ad49ff15aa4d2831b1681}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Metro}
+      \field{title}{Rode Kruis lanceert eerstehulp-app}
+      \field{year}{2019}
+    \endentry
     \entry{IBM2011}{article}{}
       \name{author}{1}{}{%
         {{hash=cbf44511d041dc6d1dd73cc0c033122c}{%
@@ -433,6 +537,41 @@
       \verb https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html
       \endverb
     \endentry
+    \entry{Oord2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=eb4d5c66a32d8ff3f8cb56e4544c1876}{%
+           family={Oord},
+           familyi={O\bibinitperiod},
+           given={Aäron},
+           giveni={A\bibinitperiod},
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=a133b469b21b870786119a47b1b691eb}{%
+           family={Dieleman},
+           familyi={D\bibinitperiod},
+           given={Sander},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2aa313015f1044bc971ca81178ac06d}
+      \strng{fullhash}{b2aa313015f1044bc971ca81178ac06d}
+      \strng{bibnamehash}{b2aa313015f1044bc971ca81178ac06d}
+      \strng{authorbibnamehash}{b2aa313015f1044bc971ca81178ac06d}
+      \strng{authornamehash}{b2aa313015f1044bc971ca81178ac06d}
+      \strng{authorfullhash}{b2aa313015f1044bc971ca81178ac06d}
+      \field{sortinit}{O}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deepmind}
+      \field{title}{WaveNet: A Generative Model for Raw Audio}
+      \field{year}{2016}
+      \verb{urlraw}
+      \verb https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+      \endverb
+      \verb{url}
+      \verb https://deepmind.com/blog/wavenet-generative-model-raw-audio/
+      \endverb
+    \endentry
     \entry{Passies2018}{online}{}
       \name{author}{1}{}{%
         {{hash=6ef91ec5d50068cc85e24fbd731c1862}{%
@@ -528,6 +667,41 @@
       \endverb
       \verb{url}
       \verb http://archive.fortune.com/magazines/fortune/fortune_archive/1998/07/06/244793/index.htm
+      \endverb
+    \endentry
+    \entry{Koster1999}{article}{}
+      \name{author}{2}{}{%
+        {{hash=d62ab2523bd28a56b79741dda8fda42a}{%
+           family={R.W.},
+           familyi={R\bibinitperiod},
+           given={Koster},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4b0ff23b117ebf68d791638ca9619f36}{%
+           family={J.M.},
+           familyi={J\bibinitperiod},
+           given={Buiting},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \strng{fullhash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \strng{bibnamehash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \strng{authorbibnamehash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \strng{authornamehash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \strng{authorfullhash}{661a58b5d42b7f36d4190d99835ce6ae}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Defibrillation outside hospital using an automatic external defibrillator: a life-saving but restricted action? - Application of the automatic external defibrillator can improve the chance of success during resuscitation of out-of-hospital cardiac arrest, because lay persons can defibrillate awaiting the arrival of the ambulance. Defibrillation is mentioned in the Dutch Individual Health Care Professionals Act as a precluded action. Defibrillation with an automatic external defibrillator should be excluded from the list of precluded actions, because application is almost 100 safe and because the subject is not within the scope of the law which is restricted to professional activities and non-emergency actions. Defibrillation with an automatic external defibrillator is acceptable.}
+      \field{journaltitle}{NTvG, Nederlands Tijdschrift voor Geneeskunde}
+      \field{month}{3}
+      \field{title}{Defibrilleren met een automatische externe defibrillator buiten het ziekenhuis: een levensreddende, maar voorbehouden handeling?}
+      \field{year}{1999}
+      \verb{urlraw}
+      \verb https://www.ntvg.nl/artikelen/defibrilleren-met-een-automatische-externe-defibrillator-buiten-het-ziekenhuis-een/volledig
+      \endverb
+      \verb{url}
+      \verb https://www.ntvg.nl/artikelen/defibrilleren-met-een-automatische-externe-defibrillator-buiten-het-ziekenhuis-een/volledig
       \endverb
     \endentry
     \entry{Rouse2017}{article}{}
@@ -925,7 +1099,10 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{Singh}
   \missing{Woodford 2019}
+  \missing{gezondheid.be2018}
+  \missing{volksgezondheidenzorg2019}
 \endrefsection
 \endinput
 
