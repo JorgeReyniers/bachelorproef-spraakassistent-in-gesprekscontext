@@ -108,7 +108,7 @@ boxplot(ga$score~ga$eigenschap, main="Gegeven scores op de eigenschappen van Goo
 boxplot(ganl$score~ganl$eigenschap, main="Gegeven scores op de eigenschappen van Google Assistant in het Nederlands", xlab="eigenschap", ylab = "score")
 \end{lstlisting}
 
-\subsection{De gemiddelde score en standaardafwijking van alle eigenschappen per assistent gesorteerd van hoog naar laag}
+\subsection{De gemiddelde score en standaardafwijking van alle eigenschappen per assistent}
 \begin{lstlisting}
 attach(coreResultsLong)
 mean_sd_scores <- setNames(aggregate(x = score, by=list(eigenschap, assistant), FUN = function(x) c(mean = mean(x), sd = sd(x))),c("eigenschap", "assistant", ""))

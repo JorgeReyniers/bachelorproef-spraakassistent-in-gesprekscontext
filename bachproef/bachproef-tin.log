@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.5.29)  31 MAY 2019 09:21
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7050 64-bit) (preloaded format=xelatex 2019.5.29)  31 MAY 2019 11:29
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1915,10 +1915,10 @@ Underfull \vbox (badness 6893) has occurred while \output is active []
 File: img/artikelRodeKruisApp.jpg Graphic file (type bmp)
 <img/artikelRodeKruisApp.jpg>
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20])
-(standvanzaken.tex [21] [22
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20]) (standvanzaken.tex [21] [22
 
 ]
 Hoofdstuk 3.
@@ -1932,9 +1932,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Missing character: There is no ’ in font ptmr8t!
 Missing character: There is no ’ in font ptmr8t!
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 53.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 53.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 52.
 File: img/Shoebox.jpg Graphic file (type bmp)
 <img/Shoebox.jpg>
 Missing character: There is no ’ in font ptmr8t!
