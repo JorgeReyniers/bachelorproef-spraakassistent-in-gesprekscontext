@@ -1,5 +1,5 @@
 'use strict';
-import {dialogflow, SimpleResponse, Suggestions} from 'actions-on-google/dist/index';
+import {dialogflow, SimpleResponse, Suggestions, MediaObject} from 'actions-on-google/dist/index';
 import * as functions from 'firebase-functions';
 import InstructionService from './InstructionService';
 
